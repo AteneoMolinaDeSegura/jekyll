@@ -29,7 +29,12 @@ rvm --default use 2.4.1
 gem install bundler jekyll
 
 // Lanzar el servidor de desarrollo en el puerto 4000
+// Tras ejecutar el comando podrás acceder a la web en [localhost:4000](localhost:4000)
 bundle exec jekyll serve
+
+// Construir el proyecto. Tras la ejecución de este comando la carpeta _site contendrá los archivos
+// que compondrán nuestro sitio web
+bundle exec jekyll build 
 ```
 
 En esta web encontrarás algo de información sobre cómo utilizar las plantillas o algunos comandos útiles [aquí](https://devhints.io/jekyll).
