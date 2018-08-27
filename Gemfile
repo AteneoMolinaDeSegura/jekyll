@@ -10,6 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.3"
 
+# HTMLProofer is a set of tests to validate your HTML output
+gem "html-proofer", "~> 3.9.0"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
