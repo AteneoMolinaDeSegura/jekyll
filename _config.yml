@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   manifestarse y defenderse todas las ideas y concepciones vitales que asuman 
   los principios y objetivos de la asociación. Estos son nuestra mejor carta de presentación.
 baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ateneomolinadesegura.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/web" # needed when the page is not the user page but a project page.
 github_username:  AteneoMolinaDeSegura
 
 # Build settings
