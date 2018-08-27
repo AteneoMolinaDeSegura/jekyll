@@ -6,6 +6,10 @@ Este repositorio contiene un sitio web estático generado con [Jekyll](https://j
 
 Si quieres colaborar en la edición y mantenimiento de este proyecto no dudes en enviarnos tus pull requests o solicitar una invitación a la organización enviando un email a [ateneomolinadesegura@gmail.com](mailto://ateneomolinadesegura@gmail.com).
 
+# ¿Cuándo y como se actualiza la web?
+
+La web se actualiza de forma automática (puede tardar unos minutos) cada vez que la rama ``master`` cambia. Si se edita el contenido de algún post desde la web de GitHub manualmente, se añade un commit a la rama ``master`` diréctamente o se envía una pull request contra ``master`` la web se desplegará automáticamente.
+
 # Añadir contenido a la web
 
 # Modificar el contenido de la web
