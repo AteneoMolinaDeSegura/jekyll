@@ -31,3 +31,5 @@ gem install bundler jekyll
 // Lanzar el servidor de desarrollo en el puerto 4000
 bundle exec jekyll serve
 ```
+
+En esta web encontrarás algo de información sobre cómo utilizar las plantillas o algunos comandos útiles [aquí](https://devhints.io/jekyll).

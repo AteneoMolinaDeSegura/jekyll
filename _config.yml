@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Ateneo Molina de Segura
+email: ateneomolinadesegura@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  El Ateneo Villa de Molina de Segura es una asociación que comenzó su andadura 
+  en Noviembre de 2014 con la voluntad expresa de ser un lugar donde pudieran 
+  manifestarse y defenderse todas las ideas y concepciones vitales que asuman 
+  los principios y objetivos de la asociación. Estos son nuestra mejor carta de presentación.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ateneomolinadesegura.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  AteneoMolinaDeSegura
 
 # Build settings
 markdown: kramdown
