@@ -1,6 +1,6 @@
 # <img src="./art/logo.svg" width="60px;"/> Ateneo Molina de Segura
 
-Repositorio de código de la página web del Ateneo Villa de Molina de Segura [https://ateneomolinadesegura.com](https://ateneomolinadesegura.com).
+Repositorio de código de la página web del Ateneo Villa de Molina de Segura [https://ateneomolinadesegura.github.io/web/](https://ateneomolinadesegura.github.io/web/).
 
 Este repositorio contiene un sitio web estático generado con [Jekyll](https://jekyllrb.com/). Gestionado como un proyecto open source desde su nacimiento y bajo una [licencia](./LICENSE) GNU General Public License v3.0 este proyecto evolucionará gracias a los miembros de [nuestra organización](https://github.com/orgs/AteneoMolinaDeSegura/people).
 
