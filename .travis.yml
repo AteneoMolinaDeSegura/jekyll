@@ -11,9 +11,8 @@ script: ./scripts/cibuild.sh
 
 deploy:
   provider: pages
-  local_dir: _site
+  local-dir: _site
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
   on:
     branch: first-project-iteration
