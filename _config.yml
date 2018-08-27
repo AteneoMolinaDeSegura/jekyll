@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   los principios y objetivos de la asociación. Estos son nuestra mejor carta de presentación.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ateneomolinadesegura.github.io/web"
+baseurl: "/web/"
 github_username:  AteneoMolinaDeSegura
 
 # Build settings
@@ -38,6 +39,10 @@ exclude:
    - Gemfile.lock
    - node_modules
    - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - art
+   - scripts
+   - LICENSE
+   - README.md
