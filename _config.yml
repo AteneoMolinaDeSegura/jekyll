@@ -17,8 +17,6 @@ title: Ateneo Molina de Segura
 email: ateneomolinadesegura@gmail.com
 description: El Ateneo Villa de Molina de Segura es una asociación que comenzó su andadura en Noviembre de 2014 con la voluntad expresa de ser un lugar donde pudieran manifestarse y defenderse todas las ideas.
 github_username:  AteneoMolinaDeSegura
-url: "http://ateneomolinadesegura.github.io/web"
-baseurl: "/web"
 
 # Build settings
 markdown: kramdown
