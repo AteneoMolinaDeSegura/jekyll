@@ -11,6 +11,7 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/header.css">
     <link rel="stylesheet" href="/css/footer.css">
     <link rel="stylesheet" href="/css/material.min.css">
     <script src="/javascript/material.min.js"></script>
@@ -19,8 +20,10 @@
 </head>
 
 <body>
-    {% include navigation-bar.html %}
-    {{ content }}
+    {% include header.html %}
+    <div class="main-content">
+            {{ content }}
+    </div>
     {% include footer.html %}        
 </body>
 

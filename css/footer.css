@@ -1,3 +1,7 @@
+footer {
+  bottom: 0;
+  left: 0;
+}
 footer a {
-  color: transparent
+  color: transparent;
 };
