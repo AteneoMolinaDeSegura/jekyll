@@ -1,0 +1,19 @@
+header i.material-icons {
+  margin-top: 10px;
+}
+
+header img {
+  padding-top: 15px !important;
+}
+
+.ateneo-de-molina-img-title {
+  height: 80% !important;
+}
+
+.mdl-layout__header {
+  background: white !important;
+}
+
+.mdl-layout__header .mdl-layout__drawer-button {
+  color: #424242 !important;
+}

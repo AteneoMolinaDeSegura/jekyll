@@ -16,15 +16,19 @@
     <link rel="stylesheet" href="/css/material.min.css">
     <script src="/javascript/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>{{ title }}</title>
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+
 </head>
 
 <body>
     {% include header.html %}
-    <div class="main-content">
+    <main class="mdl-layout__content">
+        <div class="page-content">
             {{ content }}
-    </div>
-    {% include footer.html %}        
+        </div>
+    </main>
+    {% include footer.html %}
 </body>
 
 </html>

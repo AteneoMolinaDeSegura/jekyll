@@ -1,10 +1,7 @@
-body {
-  background: red;
+.mdl-layout__header-row .mdl-navigation__link {
+  color: #424242 !important;
 }
-  
-.main-content {
-  width: 100%;
-  padding-right: 10%;
-  padding-left: 10%;
-  background: blue;
+
+.page-content {
+  margin-top: 64px;
 }
