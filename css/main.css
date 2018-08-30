@@ -5,3 +5,7 @@
 main {
   margin-top: 64px;
 }
+
+.avatar {
+  border-radius: 50%;
+}

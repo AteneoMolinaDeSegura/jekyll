@@ -1,0 +1,46 @@
+.next-activity-main-info {
+ 
+}
+
+.next-activity-main-info-container {
+    background: #000000BF;
+    color: white;
+    margin: 10px;
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+.next-activity-main-info-text-content {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px
+}
+
+.next-activity-main-info-speakers {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.next-activity-speaker-content {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.next-activity-speaker-content-left {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    
+    .avatar {
+        width: 30%;
+    }
+}
+
+.next-activity-speaker-content-right {
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
