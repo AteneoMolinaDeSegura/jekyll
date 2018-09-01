@@ -17,3 +17,9 @@ header img {
 .mdl-layout__header .mdl-layout__drawer-button {
   color: #424242 !important;
 }
+
+@media only screen and (max-width: 650px) {
+  .ateneo-de-molina-img-title {
+    width: 0;
+  }
+}

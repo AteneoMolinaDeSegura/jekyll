@@ -12,3 +12,13 @@ main {
 .avatar {
   border-radius: 50%;
 }
+
+@media only screen and (max-width: 1000px) {
+  nav a {
+    padding: 0 !important;
+  }
+
+  div .mdl-layout__header-row {
+    padding-left: 20px !important;
+  }
+}

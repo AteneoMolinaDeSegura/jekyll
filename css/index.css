@@ -25,6 +25,7 @@
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 35px;
+    margin-bottom: 40px;
 }
 
 .next-activity-speaker-content {
@@ -47,4 +48,15 @@
     padding-left: 10px;
     padding-right: 10px;
         
+}
+
+@media only screen and (max-width: 1000px) {
+    .next-activity-main-info-container {
+        grid-template-columns: 100%;
+    }
+
+    .next-activity-main-info-speakers {
+        grid-column-start: 1;
+        grid-column-end: 1;
+    }
 }
