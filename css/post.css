@@ -17,3 +17,12 @@
   grid-column-start: 2;
   grid-column-end: 2;
 }
+
+.post-content a {
+  color: black !important;
+}
+
+.post-content img {
+  display: block;
+  margin: 0 auto;
+}
