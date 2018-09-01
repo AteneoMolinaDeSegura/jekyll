@@ -1,6 +1,12 @@
-.page-content {
-  min-height: 64%;
+body {
+  min-height: 100%;
 }
+
+a {
+  color: white !important;
+  font-weight: bold;
+}
+
 .mdl-layout__header-row .mdl-navigation__link {
   color: #424242 !important;
 }
@@ -12,6 +18,15 @@ main {
 .avatar {
   border-radius: 50%;
 }
+
+.no-underline-link {
+  text-decoration: none;
+}
+
+.transparent-link {
+  color: transparent !important;
+}
+
 
 @media only screen and (max-width: 1000px) {
   nav a {

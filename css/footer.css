@@ -1,7 +1,9 @@
 footer {
-  bottom: 0;
-  left: 0;
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
 }
-footer a {
-  color: transparent;
-};
+
+.material-icons {
+  color: white;
+}
