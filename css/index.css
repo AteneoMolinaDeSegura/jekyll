@@ -59,4 +59,8 @@
         grid-column-start: 1;
         grid-column-end: 1;
     }
+
+    .next-activity-container {
+        padding-top: 40px;
+    }
 }
