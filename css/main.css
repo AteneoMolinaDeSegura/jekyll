@@ -1,0 +1,24 @@
+.page-content {
+  min-height: 64%;
+}
+.mdl-layout__header-row .mdl-navigation__link {
+  color: #424242 !important;
+}
+
+main {
+  margin-top: 54px;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+@media only screen and (max-width: 1000px) {
+  nav a {
+    padding: 0 !important;
+  }
+
+  div .mdl-layout__header-row {
+    padding-left: 20px !important;
+  }
+}
