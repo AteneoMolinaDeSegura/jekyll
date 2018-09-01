@@ -1,6 +1,6 @@
----
-layout: page
----
+--- 
+layout: page 
+--- 
 {% for post in site.posts limit:1 %}
 <div class="next-activity-container" style="background-image: url('{{ post.banner }}')">
   <div class="next-activity-main-info-container">
@@ -12,15 +12,15 @@ layout: page
     </div>
     <div class="next-activity-main-info-speakers">
       {% for speaker in post.speakers %}
-        <div class="next-activity-speaker-content">
-          <div class="next-activity-speaker-content-left">
-            <img class="avatar" alt="Speaker Photo" src="{{speaker.photo}}">
-          </div>
-          <div class="next-activity-speaker-content-right">
-            <p>{{speaker.name}}</p>
-            <p>{{speaker.bio}}</p>
-          </div>
+      <div class="next-activity-speaker-content">
+        <div class="next-activity-speaker-content-left">
+          <img class="avatar" alt="Speaker Photo" src="{{speaker.photo}}">
         </div>
+        <div class="next-activity-speaker-content-right">
+          <p>{{speaker.name}}</p>
+          <p>{{speaker.bio}}</p>
+        </div>
+      </div>
       {% endfor %}
     </div>
   </div>

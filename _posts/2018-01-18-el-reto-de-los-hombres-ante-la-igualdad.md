@@ -2,7 +2,7 @@
 layout: post
 title: "El reto de los hombres ante la igualdad"
 subtitle: "Las nuevas masculinidades"
-date: "Jueves, 18 Enero, 20:00h"
+eventDate: "Jueves, 18 Enero, 20:00h"
 placeName: "Centro Cultural las Balsas"
 banner: "/images/posts/bannerMasculinidades.png"
 speakers: 
@@ -13,7 +13,6 @@ speakers:
       photo: "/images/posts/jose_antonio_ruiz.jpg"
       bio: "Ldo. en Filosofía, asesor y técnico en proyectos de genero y nuevas masculinidades."
 ---
-
 Empezamos el año con un encuentro con la Asociación de Hombre por la Igualdad de Género (AHIGE) con los que charlaremos sobre la necesidad de que los hombres asumamos nuestra responsabilidad social y personal ante la injusticia que significa la discriminación en razón de sexo, obtenemos la ventaja de poder situarnos ante el machismo como algo dañino también para nosotros.
 
 Por cada mujer cansada de tener que aparentar debilidad,
