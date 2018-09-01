@@ -5,14 +5,19 @@ title: El reto de los hombres ante la igualdad
 subtitle: Las nuevas masculinidades - Jueves, 18 Enero, 20:00h
 placeName: Centro Cultural las Balsas
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
-banner: "/images/posts/bannerMasculinidades.png"
+banner: /images/posts/bannerMasculinidades.png
 speakers: 
-    - name: "Santiago Fernández Guillamón"
-      photo: "/images/posts/santiago_fernandez.jpg"
-      bio: "Trabajador Social. Dinamizador de grupos de hombres."
-    - name: "José Antonio Ruiz Alba"
-      photo: "/images/posts/jose_antonio_ruiz.jpg"
-      bio: "Ldo. en Filosofía, asesor y técnico en proyectos de genero y nuevas masculinidades."
+    - name: Santiago Fernández Guillamón
+      photo: /images/posts/santiago_fernandez.jpg
+      bio: Trabajador Social. Dinamizador de grupos de hombres.
+    - name: José Antonio Ruiz Alba
+      photo: /images/posts/jose_antonio_ruiz.jpg
+      bio: Ldo. en Filosofía, asesor y técnico en proyectos de genero y nuevas masculinidades.
+relatedLinks: 
+    - name: Asociación de Hombres por la Igualdad de Género en Murcia.
+      url: http://ahige.org/red/ahige-murcia
+    - name: Sentir pensar y hacer las masculinidades.
+      url: https://www.youtube.com/watch?v=jlsv4CMxIRg&feature=youtu.be&t=16m16s
 ---
 Empezamos el año con un encuentro con la Asociación de Hombre por la Igualdad de Género (AHIGE) con los que charlaremos sobre la necesidad de que los hombres asumamos nuestra responsabilidad social y personal ante la injusticia que significa la discriminación en razón de sexo, obtenemos la ventaja de poder situarnos ante el machismo como algo dañino también para nosotros.
 

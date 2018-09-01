@@ -27,6 +27,7 @@ main {
   color: transparent !important;
 }
 
+
 @media only screen and (max-width: 1000px) {
   nav a {
     padding: 0 !important;

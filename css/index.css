@@ -1,6 +1,8 @@
 .next-activity-container {
-    padding-top: 200px;
+    padding-top: 60px;
     padding-bottom: 20px;
+    background-repeat: repeat repeat;
+
 }
 
 .next-activity-main-info-container {
@@ -16,7 +18,7 @@
     grid-column-end: 1;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 10px
+    padding-bottom: 10px;
 }
 
 .next-activity-main-info-speakers {
@@ -64,6 +66,32 @@
 .share-buttons {
     margin-top: 2px;
     float: left;
+}
+
+.next-activity-main-info-related-links {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+.related-link-card {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    background: white;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.related-link-card > i {
+    color: #2e2d2d;
+    margin-right: 5px;
+}
+
+.related-link-card > a {
+    color: #2e2d2d !important;
 }
 
 @media only screen and (max-width: 1000px) {
