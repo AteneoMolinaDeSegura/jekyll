@@ -5,10 +5,18 @@ layout: page
 <div class="next-activity-container" style="background-image: url('{{ post.banner }}')">
   <div class="next-activity-main-info-container">
     <div class="next-activity-main-info-text-content">
-      <h1>Próxima actividad</h1>
-      <h3>{{ post.title }}</h3>
-      <h5>{{ post.subtitle }}</h5>
-      <h6>{{ post.content | strip_html | truncatewords: site.numberOfWordsForPostPreview }}</h6>
+      <h1>
+        <a class="no-underline-link" href="{{ post.url }} ">Próxima actividad</a>
+      </h1>
+      <h2>
+        <a class="no-underline-link" href="{{ post.url }} ">{{ post.title }}</a>
+      </h2>
+      <h4>
+        <a class="no-underline-link" href="{{ post.url }} ">{{ post.subtitle }}</a>
+      </h4>
+      <h6>{{ post.content | strip_html | truncatewords: site.numberOfWordsForPostPreview }}
+      <a href="{{ post.url }} "> leer más</a>.
+      </h6>
     </div>
     <div class="next-activity-main-info-speakers">
       {% for speaker in post.speakers %}

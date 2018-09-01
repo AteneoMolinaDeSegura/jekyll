@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: el-reto-de-los-hombres-ante-la-igualdad
 title: "El reto de los hombres ante la igualdad"
 subtitle: "Las nuevas masculinidades - Jueves, 18 Enero, 20:00h"
 placeName: "Centro Cultural las Balsas"
