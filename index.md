@@ -17,8 +17,8 @@ layout: page
           <img class="avatar" alt="Speaker Photo" src="{{speaker.photo}}">
         </div>
         <div class="next-activity-speaker-content-right">
-          <p>{{speaker.name}}</p>
-          <p>{{speaker.bio}}</p>
+          <h4>{{speaker.name}}</h4>
+          <h6>{{speaker.bio}}</h6>
         </div>
       </div>
       {% endfor %}

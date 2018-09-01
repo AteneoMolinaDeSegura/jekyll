@@ -24,6 +24,7 @@
     grid-column-end: 2;
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 35px;
 }
 
 .next-activity-speaker-content {
@@ -35,8 +36,15 @@
     grid-column-start: 1;
     grid-column-end: 1;
 }
+.avatar {
+    width: 100%;
+    margin-top: 30px;
+} 
 
 .next-activity-speaker-content-right {
     grid-column-start: 2;
     grid-column-end: 2;
+    padding-left: 10px;
+    padding-right: 10px;
+        
 }
