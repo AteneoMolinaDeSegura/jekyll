@@ -17,6 +17,14 @@ layout: page
       <h6>{{ post.content | strip_html | truncatewords: site.numberOfWordsForPostPreview }}
       <a href="{{ post.url }} "> leer más</a>.
       </h6>
+      <div class="share-buttons">
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+          <a class="a2a_button_facebook"></a>
+          <a class="a2a_button_twitter"></a>
+          <a class="a2a_button_whatsapp"></a>
+          <a class="a2a_button_email"></a>
+        </div>
+      </div>
     </div>
     <div class="next-activity-main-info-speakers">
       {% for speaker in post.speakers %}
@@ -30,6 +38,11 @@ layout: page
         </div>
       </div>
       {% endfor %}
+      <div class="next-activity-map-button">
+        <a href="{{ post.placeUrl }}" target="_blank">
+          <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect next-activity-content-button">Cómo llegar</button>
+        </a>
+      </div>
     </div>
   </div>
 </div>

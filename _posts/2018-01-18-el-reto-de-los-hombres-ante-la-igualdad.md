@@ -1,9 +1,10 @@
 ---
 layout: post
 permalink: el-reto-de-los-hombres-ante-la-igualdad
-title: "El reto de los hombres ante la igualdad"
-subtitle: "Las nuevas masculinidades - Jueves, 18 Enero, 20:00h"
-placeName: "Centro Cultural las Balsas"
+title: El reto de los hombres ante la igualdad
+subtitle: Las nuevas masculinidades - Jueves, 18 Enero, 20:00h
+placeName: Centro Cultural las Balsas
+placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
 banner: "/images/posts/bannerMasculinidades.png"
 speakers: 
     - name: "Santiago Fernández Guillamón"

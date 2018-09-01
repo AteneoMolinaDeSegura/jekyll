@@ -50,6 +50,22 @@
         
 }
 
+.next-activity-content-button {
+    color: white !important;
+    background: #8a8c8c !important;
+    float: left;
+}
+
+.next-activity-map-button {
+    margin-right: 20px;
+    float: right;
+}
+
+.share-buttons {
+    margin-top: 2px;
+    float: left;
+}
+
 @media only screen and (max-width: 1000px) {
     .next-activity-main-info-container {
         grid-template-columns: 100%;
