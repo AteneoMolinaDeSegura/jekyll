@@ -5,9 +5,9 @@ layout: page
 <div class="next-activity-container" style="background-image: url('{{ post.banner }}')">
   <div class="next-activity-main-info-container">
     <div class="next-activity-main-info-text-content">
-      <h1>
+      <h2>
         <a class="no-underline-link" href="{{ post.url }} ">Próxima actividad</a>
-      </h1>
+      </h2>
       <h2>
         <a class="no-underline-link" href="{{ post.url }} ">{{ post.title }}</a>
       </h2>

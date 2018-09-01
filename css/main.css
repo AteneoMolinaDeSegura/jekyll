@@ -1,3 +1,7 @@
+body {
+  min-height: 100%;
+}
+
 a {
   color: white !important;
   font-weight: bold;
