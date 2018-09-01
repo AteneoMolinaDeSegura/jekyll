@@ -1,0 +1,19 @@
+.post-content-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 70% 30%;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.post-content {
+  grid-column-start: 1;
+  grid-column-end: 1;
+}
+
+.post-speakers-container {
+  grid-column-start: 2;
+  grid-column-end: 2;
+}
