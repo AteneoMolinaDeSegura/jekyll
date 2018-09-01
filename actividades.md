@@ -1,5 +1,6 @@
 ---
-title: Términos de uso
+layout: page 
+title: Actividades
 ---
 
 Actividades

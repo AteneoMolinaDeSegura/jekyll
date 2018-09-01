@@ -1,5 +1,6 @@
 ---
-title: About
+layout: page
+title: Qué es el ateneo
 ---
 
-About
+Qué es el ateneo
