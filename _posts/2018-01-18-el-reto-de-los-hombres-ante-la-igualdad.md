@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "El reto de los hombres ante la igualdad"
-subtitle: "Las nuevas masculinidades"
-eventDate: "Jueves, 18 Enero, 20:00h"
+subtitle: "Las nuevas masculinidades - Jueves, 18 Enero, 20:00h"
 placeName: "Centro Cultural las Balsas"
 banner: "/images/posts/bannerMasculinidades.png"
 speakers: 

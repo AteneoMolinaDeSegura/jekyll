@@ -6,9 +6,9 @@ layout: page
   <div class="next-activity-main-info-container">
     <div class="next-activity-main-info-text-content">
       <h1>Próxima actividad</h1>
-      <h2>{{ post.title }}</h2>
-      <h3>{{ post.subtitle }}</h3>
-      {{ post.content | strip_html | truncatewords: site.numberOfWordsForPostPreview }}
+      <h3>{{ post.title }}</h3>
+      <h5>{{ post.subtitle }}</h5>
+      <h6>{{ post.content | strip_html | truncatewords: site.numberOfWordsForPostPreview }}</h6>
     </div>
     <div class="next-activity-main-info-speakers">
       {% for speaker in post.speakers %}
