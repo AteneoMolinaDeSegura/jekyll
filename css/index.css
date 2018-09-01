@@ -107,4 +107,9 @@
     .next-activity-container {
         padding-top: 20px;
     }
+
+    .next-activity-map-button {
+        margin-top: 15px;    
+        float: left;
+    }
 }

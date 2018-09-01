@@ -48,7 +48,7 @@ layout: page
       <h4> Enlaces sobre el tema:</h4>
       <div class="mdl-grid">
       {% for link in post.relatedLinks %}
-        <div class="mdl-cell mdl-cell--4-col related-link-card">
+        <div class="mdl-cell mdl-cell--5-col related-link-card">
           <i class="material-icons">link</i>
           <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
         </div>
