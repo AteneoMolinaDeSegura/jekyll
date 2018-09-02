@@ -15,11 +15,14 @@
     <link href="{{ "/css/index.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
     <link href="{{ "/css/footer.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
     <link href="{{ "/css/post.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
+    <link rel="stylesheet" href="/css/normalize.css" >
     <link rel="stylesheet" href="/css/material.min.css">
     <script src="/javascript/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <title>{{ site.title }}</title>
+    <meta property="og:title" content="{{ page.title }}">
     <meta name="description" content="{{ site.description }}">
+    <meta property="og:image" content="/images/logo.svg">
 
 </head>
 

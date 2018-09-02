@@ -11,6 +11,7 @@
     margin: 10px;
     display: grid;
     grid-template-columns: 60% 40%;
+    
 }
 
 .next-activity-main-info-text-content {
@@ -101,6 +102,7 @@
 
     .next-activity-container {
         padding-top: 20px;
+        background-size: unset;
     }
 
     .next-activity-map-button {
