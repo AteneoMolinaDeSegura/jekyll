@@ -37,3 +37,10 @@
     grid-template-columns: 70%;
   }
 }
+
+
+@media only screen and (max-width: 400px) {
+  .activity-content {
+    grid-template-columns: 25%;
+  }
+}

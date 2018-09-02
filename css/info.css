@@ -1,5 +1,4 @@
 .info-content-container {
-  width: 100%;
   padding-top: 20px;
   padding-left: 10%;
   padding-right: 10%;
@@ -8,11 +7,4 @@
 
 .info-content-container a {
   color: black !important;
-}
-
-@media only screen and (max-width: 700px) {
-  .info-content-container {
-    padding-left: 0;
-    padding-right: 0;
-  }
 }
