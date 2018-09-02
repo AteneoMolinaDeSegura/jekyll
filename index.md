@@ -20,17 +20,7 @@ layout: page
       {% include share-buttons.html %}
     </div>
     {% include speakers.html speakers = post.speakers placeUrl = post.placeUrl %}
-    <div class="next-activity-main-info-related-links">
-      <h4> Enlaces sobre el tema:</h4>
-      <div class="mdl-grid">
-      {% for link in post.relatedLinks %}
-        <div class="mdl-cell mdl-cell--5-col related-link-card">
-          <i class="material-icons">link</i>
-          <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
-        </div>
-      {% endfor %}  
-      </div>
-    </div>
+    {% include related-links.html relatedLinks = post.relatedLinks  numberOfColumns = 5 %}
   </div>
 </div>
 {% endfor %}

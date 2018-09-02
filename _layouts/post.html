@@ -8,8 +8,12 @@ layout: main
     <br>
     <br>
     {{ content }}
+    <br>
+    
   </div>
   <div class="post-speakers-container">
       {% include speakers.html speakers = page.speakers placeUrl = page.placeUrl %}
+      {% include related-links.html relatedLinks = page.relatedLinks numberOfColumns = 6 %}
   </div>
+  
 </div>
