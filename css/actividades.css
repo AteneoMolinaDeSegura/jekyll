@@ -1,5 +1,15 @@
+.activity-content {
+  display: grid;
+  grid-template-columns: 25% 25% 25%;
+}
+
+.activity-card {
+  margin: 0 auto;
+}
+
 .activity-card-image.mdl-card {
   height: 256px;
+  margin-bottom: 20px;
 }
 .activity-card-image > .mdl-card__actions {
   height: 95px;
@@ -15,4 +25,7 @@
 .activity-card-image__subtitle {
   color: #fff;
   font-size: 14px;
+}
+@media only screen and (max-width: 1000px) {
+
 }

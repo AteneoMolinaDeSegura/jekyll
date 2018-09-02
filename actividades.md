@@ -2,9 +2,11 @@
 layout: info 
 title: Actividades
 ---
-
+<div class="activity-content">
 {% for post in site.posts %}
-<div class="activity-card-image mdl-card mdl-shadow--2dp" style="background: url('{{post.banner}}') center / cover;">
+<div class="activity-card">
+<div class="activity-info">
+<div class="activity-card-image mdl-card mdl-shadow--2dp" style="background: url('{{post.activityImage}}') center / cover;">
   <div class="mdl-card__title mdl-card--expand"></div>
   <div class="mdl-card__actions">
     <a class="no-underline-link" href="{{ post.url }}">
@@ -18,5 +20,8 @@ title: Actividades
     </a>
   </div>
 </div>
+</div>
+</div>
 {% endfor %}
+</div>
 
