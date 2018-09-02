@@ -1,0 +1,11 @@
+{
+  "name": "Ateneo Molina de Segura",
+  "short_name": "Ateneo",
+  "theme_color": "#761b15",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
