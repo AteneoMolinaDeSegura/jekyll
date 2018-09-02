@@ -53,6 +53,7 @@ GEM
       jekyll (~> 3.3)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+    jekyll-analytics (0.1.11)
     jekyll-autoprefixer (1.0.1)
       autoprefixer-rails (~> 6.3.6)
     jekyll-feed (0.10.0)
@@ -121,6 +122,7 @@ DEPENDENCIES
   html-proofer (~> 3.9.0)
   jekyll (~> 3.8.3)
   jekyll-admin
+  jekyll-analytics
   jekyll-autoprefixer
   jekyll-feed (~> 0.6)
   jekyll-youtube
