@@ -9,5 +9,7 @@ layout: main
     <br>
     {{ content }}
   </div>
-  <div class="post-speakers-container"></div>
+  <div class="post-speakers-container">
+      {% include speakers.html speakers = page.speakers placeUrl = page.placeUrl %}
+  </div>
 </div>

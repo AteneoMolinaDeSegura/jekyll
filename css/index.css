@@ -2,7 +2,7 @@
     padding-top: 60px;
     padding-bottom: 20px;
     background-repeat: repeat repeat;
-
+    background-size: cover;
 }
 
 .next-activity-main-info-container {
@@ -61,11 +61,6 @@
 .next-activity-map-button {
     margin-right: 20px;
     float: right;
-}
-
-.share-buttons {
-    margin-top: 2px;
-    float: left;
 }
 
 .next-activity-main-info-related-links {

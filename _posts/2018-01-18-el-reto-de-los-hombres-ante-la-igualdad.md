@@ -61,6 +61,6 @@ Por cada mujer que confía en que los hombres quieren la plena igualdad de derec
 
 ### Ahige en "Para todos la 2"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAHl2nuV5Sk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/RAHl2nuV5Sk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ***

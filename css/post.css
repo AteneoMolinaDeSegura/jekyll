@@ -1,7 +1,6 @@
 .post-content-container {
-  width: 100%;
   display: grid;
-  grid-template-columns: 70% 30%;
+  grid-template-columns: 60% 40%;
   padding-top: 10px;
   padding-left: 30px;
   padding-right: 30px;
@@ -25,4 +24,20 @@
 .post-content img {
   display: block;
   margin: 0 auto;
+}
+
+.ytp-cued-thumbnail-overlay-imag {
+  width: 100% !important;
+}
+
+@media only screen and (max-width: 1000px) {
+  .post-content-container {
+      grid-template-columns: initial;
+  }
+
+  .post-speakers-container {
+      grid-column-start: 1;
+      grid-column-end: 1;
+  }
+
 }

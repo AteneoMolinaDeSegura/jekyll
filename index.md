@@ -19,24 +19,7 @@ layout: page
       </h6>
       {% include share-buttons.html %}
     </div>
-    <div class="next-activity-main-info-speakers">
-      {% for speaker in post.speakers %}
-      <div class="next-activity-speaker-content">
-        <div class="next-activity-speaker-content-left">
-          <img class="avatar" alt="Speaker Photo" src="{{speaker.photo}}">
-        </div>
-        <div class="next-activity-speaker-content-right">
-          <h4>{{speaker.name}}</h4>
-          <h6>{{speaker.bio}}</h6>
-        </div>
-      </div>
-      {% endfor %}
-      <div class="next-activity-map-button">
-        <a href="{{ post.placeUrl }}" target="_blank">
-          <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect next-activity-content-button">Cómo llegar</button>
-        </a>
-      </div>
-    </div>
+    {% include speakers.html speakers = post.speakers placeUrl = post.placeUrl %}
     <div class="next-activity-main-info-related-links">
       <h4> Enlaces sobre el tema:</h4>
       <div class="mdl-grid">
