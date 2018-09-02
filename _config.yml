@@ -20,7 +20,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-autoprefixer
-  - jekyll-assets
   - jekyll-youtube
 
 # Exclude from processing. The following items will not be processed, by default.
