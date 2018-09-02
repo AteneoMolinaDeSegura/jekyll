@@ -1,5 +1,6 @@
 --- 
 layout: page 
+title: Ateneo Molina de Segura
 --- 
 {% for post in site.posts limit:1 %}
 <div class="next-activity-container" style="background-image: url('{{ post.banner }}')">
