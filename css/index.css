@@ -2,7 +2,7 @@
     padding-top: 60px;
     padding-bottom: 20px;
     background-repeat: repeat repeat;
-
+    background-size: cover;
 }
 
 .next-activity-main-info-container {
@@ -11,6 +11,7 @@
     margin: 10px;
     display: grid;
     grid-template-columns: 60% 40%;
+    
 }
 
 .next-activity-main-info-text-content {
@@ -63,11 +64,6 @@
     float: right;
 }
 
-.share-buttons {
-    margin-top: 2px;
-    float: left;
-}
-
 .next-activity-main-info-related-links {
     padding-left: 30px;
     padding-right: 30px;
@@ -106,6 +102,7 @@
 
     .next-activity-container {
         padding-top: 20px;
+        background-size: unset;
     }
 
     .next-activity-map-button {

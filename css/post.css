@@ -1,0 +1,34 @@
+.post-content-container {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.post-content {
+  grid-column-start: 1;
+  grid-column-end: 1;
+}
+
+.post-speakers-container {
+  grid-column-start: 2;
+  grid-column-end: 2;
+}
+
+.post-content a {
+  color: black !important;
+}
+
+@media only screen and (max-width: 1000px) {
+  .post-content-container {
+      grid-template-columns: initial;
+  }
+
+  .post-speakers-container {
+      grid-column-start: 1;
+      grid-column-end: 1;
+  }
+
+}

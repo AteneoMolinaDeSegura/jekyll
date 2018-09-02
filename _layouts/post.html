@@ -1,0 +1,19 @@
+---
+layout: main
+---
+<div class="post-content-container">
+  <div class="post-content">
+    <h1>{{ page.title }}</h1>
+    {% include share-buttons.html %}
+    <br>
+    <br>
+    {{ content }}
+    <br>
+    
+  </div>
+  <div class="post-speakers-container">
+      {% include speakers.html speakers = page.speakers placeUrl = page.placeUrl %}
+      {% include related-links.html relatedLinks = page.relatedLinks numberOfColumns = 6 %}
+  </div>
+  
+</div>

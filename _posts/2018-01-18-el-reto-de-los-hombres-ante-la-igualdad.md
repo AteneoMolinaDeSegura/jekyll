@@ -19,7 +19,12 @@ relatedLinks:
     - name: Sentir pensar y hacer las masculinidades.
       url: https://www.youtube.com/watch?v=jlsv4CMxIRg&feature=youtu.be&t=16m16s
 ---
-Empezamos el año con un encuentro con la Asociación de Hombre por la Igualdad de Género (AHIGE) con los que charlaremos sobre la necesidad de que los hombres asumamos nuestra responsabilidad social y personal ante la injusticia que significa la discriminación en razón de sexo, obtenemos la ventaja de poder situarnos ante el machismo como algo dañino también para nosotros.
+
+### Las nuevas masculinidades - Jueves, 18 Enero, 20:00h
+
+Empezamos el año con un encuentro con la [Asociación de Hombre por la Igualdad de Género (AHIGE)](https://www.facebook.com/asociacion.ahige) con los que **charlaremos sobre la necesidad de que los hombres asumamos nuestra responsabilidad social y personal ante la injusticia que significa la discriminación en razón de sexo**, obtenemos la ventaja de poder situarnos ante el *machismo como algo dañino también para nosotros*.
+
+![ahigelogo](/images/posts/ahigeLogo.png)
 
 Por cada mujer cansada de tener que aparentar debilidad,
 hay un hombre que disfruta de protegerla esperando sumisión.
@@ -51,3 +56,10 @@ Por cada mujer que es víctima de violencia en el hogar,
 hay un hombre que la ejerce y lo niega, presentándose como víctima de las “provocaciones” o el “abuso psicológico” femeninos y muchos otros que miran hacia otro lado en un silencio cómplice.
 
 Por cada mujer que confía en que los hombres quieren la plena igualdad de derechos, hay cientos de hombres confiando en que “todo cambie un poco para que todo siga igual”
+
+***
+
+### Vídeos relacionados
+
+{% youtube "https://www.youtube.com/embed/RAHl2nuV5Sk" %}
+***

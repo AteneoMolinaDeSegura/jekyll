@@ -19,6 +19,8 @@ email: ateneomolinadesegura@gmail.com
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-autoprefixer
+  - jekyll-youtube
 
 # Exclude from processing. The following items will not be processed, by default.
 
