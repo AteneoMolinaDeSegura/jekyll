@@ -21,11 +21,6 @@
   color: black !important;
 }
 
-.post-content img {
-  display: block;
-  margin: 0 auto;
-}
-
 .post-video-wrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
