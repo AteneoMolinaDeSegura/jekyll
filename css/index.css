@@ -72,8 +72,9 @@
 
 .related-link-card {
     display: grid;
-    grid-template-columns: 20% 80%;
+    grid-template-columns: 24px auto;
     background: white;
+    min-width: 40%;
     padding: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
