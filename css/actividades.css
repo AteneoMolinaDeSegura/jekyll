@@ -1,8 +1,3 @@
-.activity-content {
-  display: grid;
-  grid-template-columns: 25% 25% 25%;
-}
-
 .activity-card {
   margin: 0 auto;
 }
@@ -25,22 +20,4 @@
 .activity-card-image__subtitle {
   color: #fff;
   font-size: 14px;
-}
-@media only screen and (max-width: 1400px) {
-  .activity-content {
-    grid-template-columns: 40% 40%;
-  }
-}
-
-@media only screen and (max-width: 870px) {
-  .activity-content {
-    grid-template-columns: 70%;
-  }
-}
-
-
-@media only screen and (max-width: 400px) {
-  .activity-content {
-    grid-template-columns: 25%;
-  }
 }
