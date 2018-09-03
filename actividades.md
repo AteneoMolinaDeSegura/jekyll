@@ -2,7 +2,7 @@
 layout: info 
 title: Actividades
 ---
-<div class="activity-content">
+<div class="activity-content mdl-grid">
 {% for post in site.posts %}
 <div class="activity-card">
 <div class="activity-info">

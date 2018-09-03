@@ -1,5 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   min-height: 100%;
+}
+
+main {
+  min-height: calc(100% - 333px);
+}
+
+.page-content {
+  min-height: calc(100% - 333px);
 }
 
 a {
@@ -33,11 +45,12 @@ main {
 }
 
 .mdl-layout__content {
-  width: 100% !important;
+  width: 100%;
+  min-height: calc(100% - 333px);
 }
 
 .page-content {
-  width: 100%;
+  min-height: calc(100% - 333px);
 }
 
 @media only screen and (max-width: 1000px) {

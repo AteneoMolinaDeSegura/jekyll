@@ -21,7 +21,7 @@ title: Ateneo Molina de Segura
       {% include share-buttons.html %}
     </div>
     {% include speakers.html speakers = post.speakers placeUrl = post.placeUrl %}
-    {% include related-links.html relatedLinks = post.relatedLinks  numberOfColumns = 5 %}
+    {% include related-links.html relatedLinks = post.relatedLinks %}
   </div>
 </div>
 {% endfor %}
