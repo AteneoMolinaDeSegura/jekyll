@@ -2,6 +2,14 @@ body {
   min-height: 100%;
 }
 
+main {
+  min-height: calc(100% - 333px);
+}
+
+.page-content {
+  min-height: calc(100% - 333px);
+}
+
 a {
   color: white !important;
   font-weight: bold;
@@ -33,11 +41,11 @@ main {
 }
 
 .mdl-layout__content {
-  width: 100% !important;
+  min-height: calc(100% - 333px);
 }
 
 .page-content {
-  width: 100%;
+  min-height: calc(100% - 333px);
 }
 
 @media only screen and (max-width: 1000px) {
