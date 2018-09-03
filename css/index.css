@@ -3,7 +3,7 @@
     padding-bottom: 20px;
     background-repeat: repeat repeat;
     background-size: cover;
-    min-height: calc(100% - 333px);
+    min-height: calc(100% - 250px);
 }
 
 .next-activity-main-info-container {
@@ -90,7 +90,7 @@
     color: #2e2d2d !important;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1024px) {
     .next-activity-main-info-container {
         grid-template-columns: 100%;
     }

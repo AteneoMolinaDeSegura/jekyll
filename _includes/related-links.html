@@ -2,7 +2,7 @@
     <h4> Enlaces sobre el tema:</h4>
     <div class="mdl-grid">
     {% for link in include.relatedLinks %}
-      <div class="mdl-cell mdl-cell--{{ include.numberOfColumns }}-col related-link-card">
+      <div class="mdl-cell related-link-card">
         <i class="material-icons">link</i>
         <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
       </div>
