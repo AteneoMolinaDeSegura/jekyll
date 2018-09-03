@@ -45,6 +45,7 @@ main {
 }
 
 .mdl-layout__content {
+  width: 100%;
   min-height: calc(100% - 333px);
 }
 
