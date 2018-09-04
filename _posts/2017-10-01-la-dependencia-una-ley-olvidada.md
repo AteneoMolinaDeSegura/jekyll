@@ -2,7 +2,7 @@
 layout: post
 permalink: la-dependencia
 title: La dependencia ¿una ley olvidada?
-subtitle: Mesa redonda y posterior debate - Jueves, 5 Octubre 2017, 20:00h. Biblioteca Salvador García Aguilar
+subtitle: Mesa redonda y posterior debate - Jueves, 5 Octubre 2017, 20:00h.
 placeUrl: https://www.google.es/maps/place/Biblioteca+Municipal+Salvador+Garc%C3%ADa+Aguilar/@38.0580185,-1.2068741,17z/data=!3m1!4b1!4m5!3m4!1s0xd638752df5e7703:0x7bb1faa78306d56b!8m2!3d38.0580143!4d-1.2046854
 banner: /images/posts/bannerDependencia.jpg
 activityImage: /images/posts/bannerDependencia.jpg
