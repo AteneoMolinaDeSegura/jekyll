@@ -9,7 +9,7 @@ activityImage: /images/posts/noEsparaDormirLaNoche.jpg
 speakers: 
     - name: Antonio Cano Lax
       photo: /images/posts/antonio_cano.jpg
-      bio: Recitando poemas de su libro "No es para dormir la noche.
+      bio: Recitando poemas de su libro "No es para dormir la noche".
     - name: Jaime Hernández
       photo: /images/posts/jaime_hernandez.jpg
       bio: Acompañando a la guitarra.
