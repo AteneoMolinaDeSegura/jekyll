@@ -18,4 +18,4 @@ relatedLinks:
 ![cartel](/images/posts/locasdealegria.jpg)
 # trailer
 
-https://www.youtube.com/watch?v=2KKcQlGbmB8
+{% youtube "https://www.youtube.com/embed/2KKcQlGbmB8" %}
