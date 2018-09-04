@@ -7,6 +7,10 @@
   padding-bottom: 20px;
 }
 
+.post-content-container img {
+  max-width: 90%;
+}
+
 .post-content {
   grid-column-start: 1;
   grid-column-end: 1;
