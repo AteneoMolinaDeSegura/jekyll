@@ -23,3 +23,9 @@
   color: #fff;
   font-size: 14px;
 }
+
+@media only screen and (max-width: 1124px) {
+  .activity-card {
+    min-width: 100%;
+  }
+}
