@@ -18,7 +18,7 @@ relatedLinks:
       url: https://www.laverdad.es/murcia/201702/20/floridablanca-represento-epoca-respeto-20170220004710-v.html
 ---
 
-### Música, poesía y pintura - Miércoles, 15 de Noviembre, 20:00h 2017.
+### Música, poesía y pintura - Miércoles, 15 de Noviembre 2017, 20:00h.
 
 En Noviembre el Ateneo de Molina vuelve a su faceta más cultural con una actividad diferente, escuchar y mirar a Velázquez que combina proyecciones y detalles de la obra del genial pintor Siglo de Oro con sonetos y música acompañando a su obra.
 
