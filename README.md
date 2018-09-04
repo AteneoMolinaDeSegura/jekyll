@@ -8,7 +8,7 @@ Si quieres colaborar en la edición y mantenimiento de este proyecto no dudes en
 
 # ¿Cuándo y como se actualiza la web?
 
-La web se actualiza de forma automática (puede tardar unos minutos) cada vez que la rama ``master`` cambia. Si se edita el contenido de algún post desde la web de GitHub manualmente, se añade un commit a la rama ``master`` diréctamente o se envía una pull request contra ``master`` la web se desplegará automáticamente.
+La web se actualiza de forma automática (puede tardar unos minutos) cada vez cualquier archivo cambia, se añade o elimina en la rama principal del proyecto. Si se edita el contenido de algún post desde la web de GitHub manualmente, se añade un commit a la rama ``master`` diréctamente o se envía una pull request contra ``master`` la web se actualizará automáticamente.
 
 # Participar añadiendo o editando contenido
 
@@ -16,7 +16,7 @@ Lo primero que debemos tener en cuenta es que para poder añadir o modificar con
 
 Puedes crear tu cuenta de GitHub desde este [enlace](https://github.com/join?source=header-home). Aunque se puede seleccionar un plan de pago en el proceso de registro, nosotros solo necesitaremos un plan gratuito.
 
-![gitHubSignUp](./art/gitHubSignUp.png)
+![gitHubSignUp](./art/githubSignUp.png)
 
 Tras el proceso de registro recibirás un email para verificar tu cuenta. **Recuerda verificar tu cuenta, este paso es obligatorio y si no lo haces no podrás contribuir al proyecto**. Si pones una foto de perfil y un nombre nos ayudará bastante a comunicarnos durante las diferentes etapas de la colaboración.
 
@@ -24,11 +24,13 @@ Lo último, pero no por ello lo más importante, debes enviar un email a [ateneo
 
 Una vez te enviemos la invitación a la organización Ateneo Molina de Segura en GitHub estarás listos para añadir o editar contenido en el proyecto de nuestra página web que encontrarás aquí: [https://github.com/AteneoMolinaDeSegura/jekyll](https://github.com/AteneoMolinaDeSegura/jekyll/)
 
-![repository](https://github.com/AteneoMolinaDeSegura/jekyll)
+![repository](./art/repository.png)
 
 # Estructura del proyecto
 
 Este repositorio contiene un proyecto de Jekyll que podemos modificar desde la propia web de GitHub. Contiene una serie de archivos ``html``, ``png``, ``jpg`` y ``md`` que contienen la información que se muestar en la web. Podemos cambiar de forma automática cualquier contenido mostrado en la web desde nuestro navegador modificando el contenido de los ficheros, **pero modificar parte del contenido es más sencillo que otro**. **Este proyecto está pensado para que personas sin un gran conocimiento sobre desarrollo web puedan cambiar el contenido de las actividades que organiza el ateneo fácilmente**. Para ello solo tendrán que cambiar la información que aparece en los archivos ``.md`` dentro del directorio ``_posts``. A continuación detallaremos cómo añadir, editar y borrar contenido de la web junto con algo de información sobre como embeber vídeos de YouTube o imágenes que subiremos nosotros mismos.
+
+**Disclaimer: Decidimos usar un sitio estático generado con Jekyll y que se pueda modificar desde GitHub para evitar los costes de mantenimiento asociados a servidores y derivados. Desde la organización del Ateneo creemos que estra infraestructura es suficiente por ahora para las necesidades del proyecto.**
 
 **Ten en cuenta que tras cada modificación, un servidor externo publicará los cambios que realices en la web. Este proceso puede tardar un poco, pero será automático y transparente para los usuarios.**
 
@@ -36,11 +38,13 @@ La estructura del proyecto, desde el punto de vista de las personas que suben co
 
 ![projectStructure](./art/projectStructure.png)
 
-***Si por cualquier motivo crees que no puedes realizar la modificación o la adición de contenido que tienes en mente no dudes en ponerte en contacto con cualquier otro miembro de la organización. Son muy simpáticos y te ayudarán en todo momento con todo lo que necesites ** :smiley:
+**Si por cualquier motivo crees que no puedes realizar la modificación o la adición de contenido que tienes en mente no dudes en ponerte en contacto con cualquier otro miembro de la organización. Son muy simpáticos y te ayudarán en todo momento con todo lo que necesites ** :smiley:
 
 # Añadir contenido a la web
 
 El proyecto está pensando para que añadamos actividades de forma sencilla y repetitiva. Para añadir otro tipo de páginas, por favor ponte en contacto con el resto de la organización. Este tipo de modificaciones no son sencillas.
+
+**Consejo: Cuando tengas que crear una actividad nueva no escribas el archivo ``.md`` de la actividad desde cero. Copia uno ya existente y modifica su contenido. Esto te ayudará a cometer menos errores.**
 
 Lo primero que debemos hacer cuando queramos añadir una actividad es subir las imágenes que vamos a utilizar. Para ello lo que haremos será subir contenido a la carpeta ``images/posts`` con un nombre de fichero que no se haya usado previamente.
 
@@ -50,17 +54,17 @@ Puedes acceder a la carpeta de imágenes pusando desde la página principal del 
 
 Una vez dentro de la carpeta llamada ``images`` solo tendrás que pulsar el boton ``Subir archivos``:
 
-![uploadFiles1](uploadFiles1.png)
+![uploadFiles1](./art/uploadFiles1.png)
 
 Al hacer click en el enlace o en la carpeta de llamada ``images`` llegarás a esta pantalla:
 
-![uploadFiles2](uploadFiles2.png)
+![uploadFiles2](./art/uploadFiles2.png)
 
 Luego solo tendrás que seleccionar el archivo que quieres subir y pulsar el botón ``commit``:
 
-![uploadFiles2](uploadFiles2.png)
+![uploadFiles2](./art/uploadFiles2.png)
 
-Recuerda que por cada actividad deberás subir como mínimo una foto grande que se utilice como banner en la pantalla principal de la web y otra pequeña que se use en el cuadro de la actividad en la pantalla donde pueden verse todas las actividades. Adicionalmente puedes subir una imágen de perfil por cada uno de los ponentes que participen en la actividad.
+**Recuerda que por cada actividad deberás subir como mínimo una foto grande que se utilice como banner en la pantalla principal de la web y otra pequeña que se use en el cuadro de la actividad en la pantalla donde pueden verse todas las actividades**. Adicionalmente puedes subir una imágen de perfil por cada uno de los ponentes que participen en la actividad.
 
 Una vez subidas las imágenes podrás hacer referencia a ellas desde los archivos de las actividades de la siguiente forma
 
@@ -74,7 +78,7 @@ Si subimos una foto llamada ``pedroGomez.png`` la podremos referenciar en los fi
 ![foto](/images/posts/pedroGomez.png)
 ```
 
-***Una vez hemos subido las fotos estamos listos para crear nuestro fichero de actividad**
+**Una vez hemos subido las fotos estamos listos para crear nuestro fichero de actividad**
 
 Cada actividad tiene un fichero asociado en la carpeta ``_posts``. Cuando creamos un fichero nuevo la pantalla principal de la web se actualiza para mostrar información de este fichero sin que tengamos que hacer nada. La pantalla de actividades también se actualiza mostrando una nueva actividad en la lista.
 
@@ -174,9 +178,9 @@ relatedLinks: // INFORMACIÓN DE LOS ENLACES RELACIONADOS
 
 Si por algún motivo no hay speakers o enlaces relacionados puedes borrar estas partes del fichero.
 
-El resto del fichero contiene la información que se mostrará en la página de detalle de la actividad. **Esta parte del fichero está escrita utilizando un lenguaje llamado markdown que nos permite añadir imágenes negritas y enlaces tal y como te indico a continuación:
+El resto del fichero contiene la información que se mostrará en la página de detalle de la actividad. **Esta parte del fichero está escrita utilizando un lenguaje llamado markdown que nos permite añadir imágenes negritas y enlaces tal y como te indico a continuación**:
 
-```
+```markdown
 //Añadir un enlace:
 
 [nombreDelEnalce](https://cualquierenlace.com)
@@ -228,13 +232,25 @@ Una vez tengas el contenido listo y escrito puedes añadirlo al campo de texto d
 
 ![activities4](./art/activities4.png)
 
+**Tras unos minutos la web se actualizará cambiando la portada si la actividad que has añadido es la más reciente en el tiempo, añadiendo una nueva actividad a la pantalla de actividades y teniendo su contenido disponible en el enlace que configuraste**
+
 # Modificar el contenido de la web
 
 Para modificar el contenido de la web lo único que tienes que hacer es hacer log in con tu usuario de GitHub, seleccionar el archivo que quieres cambiar, pulsar el botón de editar, y tras realizar tus cambios pulsar el botón de que dice ``commit``. Encontrarás los ficheros que contienen la información sobre las actividades en el directorio llamado ``_post``.
 
+![edit1](./art/edit1.png)
+
+Una vez modificado el contenido del archivo, podrás guardar los cambios pulsando el botón ``commit`` al final de la página.
+
+![edit2](./art/edit2.png)
+
+La página se actualizará en unos minutos.
+
 # Eliminar contenido de la web
 
-Para borrar una actividad de la web solo tenemos que borrar el archivo asociado a la actividad.
+Para borrar una actividad de la web solo tenemos que borrar el archivo asociado a la actividad en la carpeta ``_posts`` o ``images`` 
+
+![delete1](./art/delete1.png)
 
 # Ejecutar este proyecto
 
