@@ -1,5 +1,6 @@
 .activity-card {
   margin: 0 auto;
+  width: 460px;
 }
 
 .activity-card-image.mdl-card {
@@ -21,4 +22,10 @@
 .activity-card-image__subtitle {
   color: #fff;
   font-size: 14px;
+}
+
+@media only screen and (max-width: 1124px) {
+  .activity-card {
+    min-width: 100%;
+  }
 }

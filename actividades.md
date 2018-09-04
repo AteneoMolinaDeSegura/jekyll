@@ -1,6 +1,6 @@
 ---
 layout: info 
-title: Actividades
+title: Actividades | Ateneo Molina de Segura
 ---
 <div class="activity-content mdl-grid">
 {% for post in site.posts %}

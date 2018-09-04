@@ -24,7 +24,7 @@
     <title>{{ page.title }}</title>
     <meta property="og:title" content="{{ page.title }}">
     <meta name="description" content="{{ site.description }}">
-    <meta property="og:image" content="/images/logo.svg">
+    <meta property="og:image" content="/images/logo.png">
 
 </head>
 
@@ -43,4 +43,17 @@
         a2a_config.locale = "es";
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- Grid layout support -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        if (window.location.href.indexOf("/navegadorNoSoportado") > -1) {
+            return;
+        }
+        var el = document.createElement('div');
+        var supports_grid = typeof el.style.grid === 'string';
+        if (supports_grid === false) {
+            window.location.replace("{{ site.baseUrl }}/navegadorNoSoportado");
+        }
+    })
+    </script>
 </html>

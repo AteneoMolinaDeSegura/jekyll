@@ -7,11 +7,9 @@ body {
 }
 
 main {
-  min-height: calc(100% - 333px);
-}
-
-.page-content {
-  min-height: calc(100% - 333px);
+  width: 100%;
+  min-height: calc(100% - 253px);
+  margin-top: 54px;
 }
 
 a {
@@ -21,10 +19,6 @@ a {
 
 .mdl-layout__header-row .mdl-navigation__link {
   color: #424242 !important;
-}
-
-main {
-  margin-top: 54px;
 }
 
 .avatar {
@@ -42,15 +36,6 @@ main {
 .share-buttons {
   margin-top: 2px;
   float: left;
-}
-
-.mdl-layout__content {
-  width: 100%;
-  min-height: calc(100% - 333px);
-}
-
-.page-content {
-  min-height: calc(100% - 333px);
 }
 
 @media only screen and (max-width: 1000px) {

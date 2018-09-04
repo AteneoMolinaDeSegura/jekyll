@@ -1,6 +1,6 @@
 ---
 layout: info
-title: Términos de uso
+title: Términos de uso | Ateneo Molina de Segura
 ---
 
 ## Política de Cookies
