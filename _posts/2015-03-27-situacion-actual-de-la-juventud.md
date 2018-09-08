@@ -17,6 +17,6 @@ speakers:
 
 ---
 
-### Jueves, 27 de marzo,2015, 20:00 h. Salón de Actos del Centro Social Las BalsasAuditorio Virginia Martínez del MUDEM.
+### Jueves, 27 de marzo,2015, 20:00 h. Salón de Actos del Centro Social Las Balsas.
 
 ![cartel](/images/posts/situaciondelajuventuennuestraregion2.jpg)
