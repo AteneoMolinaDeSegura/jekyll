@@ -10,7 +10,8 @@ activityImage: /images/posts/bannerLocasdealegria.png
 relatedLinks: 
     - name: Locas de Alegría Filmix
       url: https://www.filmaffinity.com/es/film744796.html
-   
+
+
 ---
 
 ### Miércoles, 12 de septiembre , 20:30 h. Auditorio Virginia Martínez del MUDEM.
