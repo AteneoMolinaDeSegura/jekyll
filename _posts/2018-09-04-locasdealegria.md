@@ -17,6 +17,7 @@ relatedLinks:
 ### Miércoles, 12 de septiembre , 20:30 h. Auditorio Virginia Martínez del MUDEM.
 
 ![cartel](/images/posts/locasdealegria.jpg)
+
 # trailer
 
 {% youtube "https://www.youtube.com/embed/2KKcQlGbmB8" %}
