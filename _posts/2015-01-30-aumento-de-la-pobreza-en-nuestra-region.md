@@ -6,7 +6,7 @@ title: AUMENTO DE LA POBREZA EN NUESTRA REGIÓN
 subtitle: Viernes 30 de enero, 20:00 h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
 banner: /images/posts/banneraumentodelapobrezaennuestraregion.png
-activityImage: /images/posts/activityaumentodelapobrezaennuestraregion.png
+activityImage: /images/posts/activityaumentodelapobrezaennuestraregion2.jpg
 speakers: 
 - name: D. Juan Antonio Illán.- 
             bio: Cáritas Murcia
