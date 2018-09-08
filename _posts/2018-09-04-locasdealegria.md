@@ -18,6 +18,5 @@ relatedLinks:
 
 ![cartel](/images/posts/locasdealegria.jpg)
 
-# trailer
 
 {% youtube "https://www.youtube.com/embed/2KKcQlGbmB8" %}
