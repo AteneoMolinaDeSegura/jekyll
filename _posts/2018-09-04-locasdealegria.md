@@ -13,7 +13,7 @@ relatedLinks:
    
 ---
 
-### Jueves, 12 de septiembre , 20:00h. IES Vega del Táder, SALÓN DE USOS MÚLTIPLES.
+### Miércoles, 12 de septiembre , 20:30 h. Auditorio Virginia Martínez del MUDEM.
 
 ![cartel](/images/posts/locasdealegria.jpg)
 # trailer
