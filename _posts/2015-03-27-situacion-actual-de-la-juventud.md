@@ -15,6 +15,7 @@ speakers:
       bio: Juventudes Socialistas
 
 
+
 ---
 
 ### Jueves, 27 de marzo,2015, 20:00 h. Salón de Actos del Centro Social Las Balsas.
