@@ -1,5 +1,4 @@
 ---
----
 layout: post
 permalink: aumento-de-la-pobreza-en-nuestra-region
 title: AUMENTO DE LA POBREZA EN NUESTRA REGIÓN
