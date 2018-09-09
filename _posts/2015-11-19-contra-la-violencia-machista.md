@@ -4,7 +4,7 @@ permalink: contra-la-violencia-machista
 title: ***Contra la Violencia Machista***
 subtitle: 19 de noviembre, 2015, 20:00h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
-banner: /images/posts/bannercontralaviolenciamachista.jpg
+banner: /images/posts/bannercontralaviolenciamachista.png
 activityImage: /images/posts/contralaviolenciamachista.jpg
 speakers: 
     - name: Dña. Concepción López Gómez
