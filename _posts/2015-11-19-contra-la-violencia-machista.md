@@ -10,11 +10,11 @@ speakers:
     - name: Dña. Concepción López Gómez
       bio: Fiscal contrala violencia sobre la mujer en la R. de Murcia  
       photo: /images/posts/speakerDefaultAvatar.jpg
-    - name: Dña. inmaculada Alcázar González
-      bio: Trabajadora Social. Técnica Gestión D. G. Mujer  
+    - name: Dña. Inmaculada Alcázar González
+      bio: Trabajadora Social. Técnica Gestión D. Gral. Mujer  
       photo: /images/posts/speakerDefaultAvatar.jpg
-    - name: Dña. lucía López Luna
-      bio: Estudiante de 2º de Bachillerato IES Fco. de GoyA  
+    - name: Dña. Lucía López Luna
+      bio: Estudiante de 2º de Bachillerato IES Fco. de Goya  
       photo: /images/posts/speakerDefaultAvatar.jpg
 ---
 
