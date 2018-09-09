@@ -252,6 +252,68 @@ Para borrar una actividad de la web solo tenemos que borrar el archivo asociado 
 
 ![delete1](./art/delete1.png)
 
+# Problemas comunes
+
+Cuando añadimos o editamos contenido es posible que por algún error no se visualce correctamente. A continuación vamos a listar los errores más comunes y cómo solucionarlos.
+
+1. **He creado una actividad pero no se visualiza ni en la página de actividad ni en la principal**
+
+Esto se debe a que el nombre del archivo no es correcto. Por ejemplo este:
+
+```
+2015-06-26-primer-concierto-tomas
+```
+
+El archivo de la actividad tiene que estar siempre dentro de la carpeta ``_posts`` y tener la extensión adecuada ``.md``. En este caso el archivo no contiene ``.md`` al final del nombre y esto hace que no se visualice. El nombre correcto del fichero sería:
+
+```
+2015-06-26-primer-concierto-tomas // INCORRECTO, LE FALTA LA EXTENSIÓN
+2015-06-26-primer-concierto-tomas.md // CORRECTO
+```
+
+2. **He subido una foto pero no se ve cuando la enlazo en el banner, la actividad o el texto de la actividad.**
+
+Cuando subimos una foto a ``/images/posts`` con el nombre ``nombredemifoto.png`` haremos siempre referencia a ella como: ``/images/posts/nombredemifoto.png``. En caso de que la extensión de la foto sea ``jpg`` usaremos ``/images/posts/nombredemifoto.jp``. 
+
+Veamos ejemplos de uso en los banners y la imágen de la actividad:
+
+```markdown
+---
+layout: post
+permalink: situacion-actual-de-lajuventud
+......
+banner: /images/posts/situaciondelajuventuennuestraregion2.jpg
+activityImage: /images/posts/situacionactualdelajuventudennuestraregion.png
+.......
+---
+```
+
+Cómo ves, el nobmre del fichero para el banner es ``situaciondelajuventuennuestraregion2.jpg`` y ``situacionactualdelajuventudennuestraregion.png`` y se referencian como: ``/images/posts/situacionactualdelajuventudennuestraregion.png``y ``/images/posts/situaciondelajuventuennuestraregion2.jpg`` sin poner los prefijos ``activity`` o ``banne`` delante. Cuando queremos usar la foto dentro del contenido de la actividad la referenciaremos de forma similar:
+
+```markdown
+![situacionjuventudes](/images/posts/situacionactualdelajuventudennuestraregion.png)
+```
+
+3. **No tengo foto de los speakers y quiero poner una por defecto.**
+
+Para esto solo tenemos que indicar que la foto por defecto es una que ya subimos cuando creamos el proyecto y que se llama ``speakersDefaultAvatar.png``. Aquí tienes un ejemplo:
+
+```markdown
+---
+layout: post
+....
+speakers: 
+    - name: Representantes Izquierda Unida
+      bio: Juventudes IU
+      photo: /images/posts/speakerDefaultAvatar.jpg // FOTO DE AVATAR POR DEFECTO
+    - name: Representantes de Partido Popular
+      bio: Nuevas Generaciones PP
+      photo: /images/posts/speakerDefaultAvatar.jpg // FOTO DE AVATAR POR DEFECTO
+---
+```
+
+**Recuerda, si estás subiendo contenido y no se visualiza quizás sea por estos motivos. Si aun revisando estos problemas comunes no consigues que se visualize solo tienes que avisar a alguien de la organización Ateneo de Molina de Segura y estaremos encantados de ayudarte.**
+
 # Ejecutar este proyecto
 
 Si necesitas modificar parte del código fuente que no está relacionado con las publicaciones y tienes que probar las modificaciones de las plantillas o cualquier otro elemento recuerda que puedes hacerlo fácilmente clonando este repositorio, instalando Ruby 2.X y Jekyll. Recuerdas que el contenido se puede añadir y modificar sin ningún tipo de software necesario más que un navegador como Google Chrome o Safari.
