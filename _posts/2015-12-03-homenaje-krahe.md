@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: homenaje-a-krahe
+permalink: homenaje-krahe
 title: KRAHE
 subtitle: Vanitas Vanitatum.  Jueves, 3 de diciembre, 2015, 20:00h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
