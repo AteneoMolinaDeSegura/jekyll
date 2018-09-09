@@ -5,7 +5,7 @@ title: ***Contra la Violencia Machista***
 subtitle: 19 de noviembre, 2015, 20:00h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
 banner: /images/posts/bannercontralaviolenciamachista.png
-activityImage: /images/posts/contralaviolenciamachista.jpg
+activityImage: /images/posts/contralaviolenciamachista.png
 speakers: 
     - name: Dña. Concepción López Gómez
       bio: Fiscal contrala violencia sobre la mujer en la R. de Murcia
@@ -17,5 +17,5 @@ speakers:
 
 ### 19 de NOVIEMBRE,2015, 20:00 h. Salón de Actos del Centro Social Las Balsas.
 
-![cartel](/images/posts/contralaviolenciamachista.jpg)
+![cartel](/images/posts/contralaviolenciamachista.png)
 
