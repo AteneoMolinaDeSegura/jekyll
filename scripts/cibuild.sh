@@ -5,14 +5,18 @@ JEKYLL_ENV=production bundle exec jekyll build
 
 compressJpgFile() {
   jpegoptim --max=80 --strip-all --all-progressive -f --dest=../posts/ $1
-  if [ $? -ne 0 ]; then
+  if [ $? -eq 1 ]; then
+    echo "Error found while optimizing JPG/JPEG file: $1"
+    echo "Coping the original file to the posts folder"
     cp $1 ../posts
   fi
 }
 
 compressPngFile() {
   pngquant --quality=65-80 --output ../posts/$1 $1
-  if [ $? -ne 0 ]; then
+  if [ $? -eq 1 ]; then
+    echo "Error found while optimizing PNG file: $1"
+    echo "Coping the original file to the posts folder"
     cp $1 ../posts
   fi
 }
