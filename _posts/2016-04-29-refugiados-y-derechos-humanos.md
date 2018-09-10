@@ -23,3 +23,6 @@ speakers:
 ---
 
 ### Refugiados y Derechos Humanos.- 29 de abril, 2016.- 20 h
+
+![cartel](/images/posts/refugiados.png)
+
