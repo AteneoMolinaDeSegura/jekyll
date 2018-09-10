@@ -19,3 +19,6 @@ speakers:
 
 ### Murcia: ¿abocada a ser un desierto? - Jueves, 2 de Junio, 20:00h
 
+
+![cartel](/images/posts/murciaabocadaaserundesierto.png)
+
