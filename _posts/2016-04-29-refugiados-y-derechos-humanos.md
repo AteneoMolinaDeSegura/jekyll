@@ -4,8 +4,8 @@ permalink: refugiados-y-derechos-humanos
 title: Refugiados y Derechos Humanos  
 subtitle: 29 de abril de 2016, 20:00h.- Aula de cultura de Cajamurcia 
 placeUrl: https://www.google.es/maps/place/Bankia/@38.051973,-1.2145567,17z/data=!3m1!4b1!4m5!3m4!1s0xd647f55f94ce073:0xef624d00d4396a38!8m2!3d38.051973!4d-1.212368  
-banner: /images/posts/bannerrefugiadosyderechoshumanos.png
-activityImage: /images/posts/REFUGIADOS.PNG
+banner: /images/posts/bannerrefugiados.png
+activityImage: /images/posts/refugiados.png
 speakers: 
     - name: Dña. Begoña Martínez
       bio: Portavoz de Amnistía Internacional (Murcia)
