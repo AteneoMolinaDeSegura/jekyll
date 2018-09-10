@@ -19,3 +19,6 @@ speakers:
 
 ### Visita guiada de la exposición de Martínez Lozano en la Sala de Exp. El jardín.- 11 de noviembre, 2016.- 20 h
 
+
+![cartel](/images/posts/martinezlozano.png)
+
