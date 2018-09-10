@@ -5,7 +5,7 @@ title: Aumento de la pobreza en nuestra Región
 subtitle: Vanitas Vanitatum.  Jueves, 30 de enero, 2015, 20:00h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
 banner: /images/posts/aumentodelapobrezaennuestraregion.png
-activityImage: /images/posts/aumentodelapobrezaennuestraregion.jpg
+activityImage: /images/posts/aumentodelapobrezaennuestraregion.png
 speakers: 
     - name: D. Juan Ant. Illán
       bio: Caritas Murcia 
