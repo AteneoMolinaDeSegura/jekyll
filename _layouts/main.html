@@ -53,6 +53,14 @@
         if (supports_grid === false) {
             window.location.replace("{{ site.baseUrl }}/navegadorNoSoportado");
         }
-    })
-    </script>
+    });
+</script>
+<!-- Material UI CSS framework hack needed to don't wait until all the images are loaded to show the content  -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        if(!(typeof(componentHandler) == 'undefined')){
+            componentHandler.upgradeAllRegistered();
+        }
+    });
+</script>
 </html>
