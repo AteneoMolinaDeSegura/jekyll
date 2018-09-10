@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: ilam-paz-o-violencia  
-title: Islam: ¿Paz o violencia?  
+permalink: islam-paz-o-violencia  
+title: "Islam: ¿Paz o violencia?"
 subtitle: 24 de febrero de 2016, 20:00h.- Aula de cultura de Cajamurcia 
 placeUrl:  https://www.google.es/maps/place/Escuela+de+Educaci%C3%B3n+Infantil+N%C2%BA+1/@38.0523753,-1.2155533,17z/data=!3m1!4b1!4m5!3m4!1s0xd6380aa063461a5:0xa4a6aa5b957bba25!8m2!3d38.0523753!4d-1.2133646
 banner: /images/posts/bannerislam.png

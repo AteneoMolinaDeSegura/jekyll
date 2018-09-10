@@ -19,3 +19,4 @@ speakers:
 
 ### Ética Política y la corrupción - Jueves, 8 octubre, 20:00h
 
+![cartel](/images/posts/eticapoliticaycorrupcion.png)

@@ -1,5 +1,7 @@
 <div class="next-activity-main-info-related-links">
+    {% if include.relatedLinks.length > 0 %}
     <h4> Enlaces sobre el tema:</h4>
+    {% endif %}
     <div class="mdl-grid">
     {% for link in include.relatedLinks %}
       <div class="mdl-cell related-link-card">

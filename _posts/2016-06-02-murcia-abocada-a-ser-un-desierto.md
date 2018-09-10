@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: murcia-abocada-a-ser-un-desierto 
-title: Murcia: ¿abocada a ser un desierto?  
+title: "Murcia: ¿abocada a ser un desierto?"
 subtitle: 2 de junio 2016, 20:00h  
 placeUrl: https://www.google.es/search?q=bankia+paseo+rosales&oq=bankia+paseo&aqs=chrome.0.0l2j69i57j69i60l2j0.11955j1j7&sourceid=chrome&ie=UTF-8  
 banner: /images/posts/bannermurciaabocadaaserundesierto.png

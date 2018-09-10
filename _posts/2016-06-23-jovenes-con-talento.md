@@ -20,5 +20,5 @@ speakers:
 
 ###  23 de junio,2016, 20:00 h. Auditorio Virginia Martínez del MUDEM.
 
-![cartel](/images/posts/jovenecontalento.png)
+![cartel](/images/posts/jovenescontalento.png)
 

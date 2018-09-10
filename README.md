@@ -293,8 +293,13 @@ Cómo ves, el nobmre del fichero para el banner es ``situaciondelajuventuennuest
 ```markdown
 ![situacionjuventudes](/images/posts/situacionactualdelajuventudennuestraregion.png)
 ```
+3. **He subido una foto pero no se ve cuando la enlazo en el banner, la actividad o el texto de la actividad.**
 
-3. **No tengo foto de los speakers y quiero poner una por defecto.**
+Revisa que has subido la foto en la carpeta de posts y no en cualquier otra carpeta. Las imágenes tienen que estar en las carpetas que se llaman ``images/posts`` y no en cualquier otra. Es bastante común subir una foto en la carpeta errónea sin querer.
+
+Si por lo que sea se sube en la carpeta que no es solo tienes que borrarla y volver a subirla.
+
+4. **No tengo foto de los speakers y quiero poner una por defecto.**
 
 Para esto solo tenemos que indicar que la foto por defecto es una que ya subimos cuando creamos el proyecto y que se llama ``speakersDefaultAvatar.png``. Aquí tienes un ejemplo:
 
@@ -311,6 +316,31 @@ speakers:
       photo: /images/posts/speakerDefaultAvatar.jpg // FOTO DE AVATAR POR DEFECTO
 ---
 ```
+
+5. **He creado una actividad pero no se ve correctamente o no se pinta**
+
+Revisa que no añadiste información en el fichero de la actividad que contenga el carácter ``:``. El carácter ``:`` solo puede usarse en la cabecera de la actividad (la información que va entre las tres rallitas ``---`` de principio del fichero) si se pone esa información entre comillas. 
+
+El siguiente título no funcionará porque hay una carácter ``:`` después de la palabra ``Islam``.
+
+```markdown
+---
+layout: post
+title: Islam: ¿Paz o violencia?
+---
+```
+
+Lo correcto sería ponerlo entre comillas. Si quieres lo puedes poner siempre entre comillas y así evitarás estos errores comunes:
+
+```markdown
+---
+layout: post
+title: "Islam: ¿Paz o violencia?"
+---
+```
+
+
+
 
 **Recuerda, si estás subiendo contenido y no se visualiza quizás sea por estos motivos. Si aun revisando estos problemas comunes no consigues que se visualize solo tienes que avisar a alguien de la organización Ateneo de Molina de Segura y estaremos encantados de ayudarte.**
 
