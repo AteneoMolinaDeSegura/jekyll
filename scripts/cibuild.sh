@@ -9,14 +9,22 @@ compressJpgFile() {
     cp $1 ../posts
   fi
 }
+
+compressPngFile() {
+  pngquant --quality=65-80 --output ../posts/$1 $1
+  if [ $? -ne 0 ]; then
+    cp $1 ../posts
+  fi
+}
 export -f compressJpgFile
+export -f compressPngFile
 
 if [ $? -eq 0 ]; then
   cd _site/images
   mv posts original_posts_images
   mkdir posts
   cd original_posts_images
-  find '.' -name '*.png' -exec pngquant --quality=65-80 --output ../posts/{} {} \;
+  find '.' -name '*.png' -exec bash -c 'compressPngFile "{}"' \;
   find '.' -name '*.jpg' -exec bash -c 'compressJpgFile "{}"' \;
   find '.' -name '*.jpeg' -exec bash -c 'compressJpgFile "{}"' \;
   cd ..
