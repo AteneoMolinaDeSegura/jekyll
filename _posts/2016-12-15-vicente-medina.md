@@ -21,3 +21,6 @@ speakers:
 
 ### La Navidad e Vicente Medina (Recital Poético por el 150 aniversario.- 15 de diciembre, 2016.- 20 h
 
+
+![cartel](/images/posts/vicentemedina.jpg)
+
