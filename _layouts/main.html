@@ -55,12 +55,4 @@
         }
     });
 </script>
-<!-- Material UI CSS framework hack needed to don't wait until all the images are loaded to show the content  -->
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        if(!(typeof(componentHandler) == 'undefined')){
-            componentHandler.upgradeDom();
-        }
-    });
-</script>
 </html>
