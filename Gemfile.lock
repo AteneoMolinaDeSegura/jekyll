@@ -58,6 +58,7 @@ GEM
       autoprefixer-rails (~> 6.3.6)
     jekyll-feed (0.10.0)
       jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.0.0)
@@ -125,6 +126,7 @@ DEPENDENCIES
   jekyll-analytics
   jekyll-autoprefixer
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   jekyll-youtube
   tzinfo-data
 

@@ -3,7 +3,7 @@ layout: info
 title: Actividades | Ateneo Molina de Segura
 ---
 <div class="activity-content mdl-grid">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="activity-card">
 <div class="activity-info">
 <div class="activity-card-image mdl-card mdl-shadow--2dp" style="background: url('{{post.activityImage}}') center / cover;">
@@ -23,5 +23,18 @@ title: Actividades | Ateneo Molina de Segura
 </div>
 </div>
 {% endfor %}
+</div>
+<div class="page-buttons-container">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Anterior</button>
+    </a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Siguiente</button>
+    </a>
+    {% endif %}
 </div>
 

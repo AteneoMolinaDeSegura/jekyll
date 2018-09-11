@@ -1,3 +1,7 @@
+.activity-content {
+  max-width: 1500px;
+  margin: 0 auto;
+}
 .activity-card {
   margin: 0 auto;
   width: 460px;
@@ -22,6 +26,17 @@
 .activity-card-image__subtitle {
   color: #fff;
   font-size: 14px;
+}
+
+.page-buttons-container {
+  margin: 0 auto;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.page-buttons-container a {
+  text-decoration: none;
+  margin: 10px;
 }
 
 @media only screen and (max-width: 1124px) {
