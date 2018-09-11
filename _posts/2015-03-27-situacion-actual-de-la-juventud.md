@@ -4,7 +4,7 @@ permalink: situacion-actual-de-lajuventud
 title: Situación actual de la Juventud en la Región de Murcia
 subtitle: Jueves, 27 de marzo, 2015, 20:00h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
-banner: /images/posts/situaciondelajuventuennuestraregion2.jpg
+banner: /images/posts/situacionactualdelajuventudennuestraregion.png
 activityImage: /images/posts/situacionactualdelajuventudennuestraregion.png
 speakers: 
     - name: Representantes Izquierda Unida
@@ -20,4 +20,4 @@ speakers:
 
 ### Jueves, 27 de marzo,2015, 20:00 h. Salón de Actos del Centro Social Las Balsas.
 
-![cartel](/images/posts/situaciondelajuventuennuestraregion2.jpg)
+![cartel](/images/posts/situacionactualdelajuventudennuestraregion.png)
