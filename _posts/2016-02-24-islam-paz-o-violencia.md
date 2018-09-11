@@ -9,13 +9,13 @@ activityImage: /images/posts/islampazoviolencia.png
 speakers: 
     - name: Dña. Fernando Bermúdez López
       bio: Pte. del Ateneo de Molina
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Mohamed Moktar
       bio: Dtor. Iman
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. José Mª Gil Garres
       bio: Periodista especializado en movimientos jihadistas
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 
 
 

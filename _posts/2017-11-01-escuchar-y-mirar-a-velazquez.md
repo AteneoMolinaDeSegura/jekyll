@@ -8,10 +8,10 @@ banner: /images/posts/bannerVelazquez.jpg
 activityImage: /images/posts/velazquez.jpg
 speakers: 
     - name: Juan Antonio López Delgado
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
       bio: Profesor de Literatura.
     - name: Paco Torres Monreal
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
       bio: Prof. Emérito de la Universidad de Murcia.
 relatedLinks: 
     - name: Entrevista a Juan Antonio López Delgado.

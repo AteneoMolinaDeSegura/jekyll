@@ -310,10 +310,10 @@ layout: post
 speakers: 
     - name: Representantes Izquierda Unida
       bio: Juventudes IU
-      photo: /images/posts/speakerDefaultAvatar.jpg // FOTO DE AVATAR POR DEFECTO
+      photo: /images/posts/speakerNoAvatar.jpg // FOTO DE AVATAR POR DEFECTO
     - name: Representantes de Partido Popular
       bio: Nuevas Generaciones PP
-      photo: /images/posts/speakerDefaultAvatar.jpg // FOTO DE AVATAR POR DEFECTO
+      photo: /images/posts/speakerNoAvatar.jpg // FOTO DE AVATAR POR DEFECTO
 ---
 ```
 

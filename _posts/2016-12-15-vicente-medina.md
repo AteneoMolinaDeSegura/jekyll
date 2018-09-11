@@ -9,10 +9,10 @@ activityImage: /images/posts/vicentemedina.jpg
 speakers: 
     - name: D. Jesús Jareño
       bio: Recitando poemas de Vicente Medina
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Juan Azorín, Fernando Hurtado y Antonio Peñaranda
       bio: Trio de Guitarras
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 ---
 
 ### La Navidad e Vicente Medina - Recital Poético por el 150 aniversario.- 15 de diciembre, 2016.- 20 h

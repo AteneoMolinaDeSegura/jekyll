@@ -9,13 +9,13 @@ activityImage: /images/posts/situacionactualdelajuventudennuestraregion.png
 speakers: 
     - name: Representantes Izquierda Unida
       bio: Juventudes IU
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: Representantes de Partido Popular
       bio: Nuevas Generaciones PP
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: Representantes de PSOE
       bio: Juventudes Socialistas
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 ---
 
 ### Jueves, 27 de marzo,2015, 20:00 h. Salón de Actos del Centro Social Las Balsas.

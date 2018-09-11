@@ -9,13 +9,13 @@ activityImage: /images/posts/refugiados.png
 speakers: 
     - name: Dña. Begoña Martínez
       bio: Portavoz de Amnistía Internacional (Murcia)
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Cristobal Campoy
       bio: Dtor. Cooperación Internacional Cruz Roja (Murcia)
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: Dña. Zinabou M. Salem Mbarek 
       bio: Refugiada Saharagüi
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 
 
 

@@ -9,13 +9,13 @@ activityImage: /images/posts/jovenescontalento.png
 speakers: 
     - name: Ganadores del Concurso de Municipal de Microrelatos y Micropoemas
       bio: Alumnado de centros de Ed. Secundaria
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: Dña. Patricia Peñaranda Tello
       bio: Primer Premio Poster en CCSS 
-      photo: /images/posts/speakerDefaultAvatar.jpg  
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. arturo Ruiz Blázquez
       bio: Pianista
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 ---
 
 ###  23 de junio,2016, 20:00 h. Auditorio Virginia Martínez del MUDEM.

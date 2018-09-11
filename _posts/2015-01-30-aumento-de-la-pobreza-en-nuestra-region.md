@@ -9,13 +9,13 @@ activityImage: /images/posts/aumentodelapobrezaennuestraregion.png
 speakers: 
     - name: D. Juan Ant. Illán
       bio: Caritas Murcia 
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Juan Luis Chillón
       bio: Cruz Roja Reg. de Murcia 
-      photo: /images/posts/speakerDefaultAvatar.jpg  
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: Dña. Adoración Molina
       bio: Portavoz y 1ª Tte. Alcalde 
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 ---
 
 ### 30 de enero,2015, 20:00 h. Salón de Actos del Centro Social Las Balsas.

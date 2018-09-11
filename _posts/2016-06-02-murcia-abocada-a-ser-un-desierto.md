@@ -9,10 +9,10 @@ activityImage: /images/posts/murciaabocadaaserundesierto.png
 speakers: 
     - name: Dña. Julia Martínez Fernández
       bio: Dra. Tec. de la Fundación Nueva Cultura del Agua
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Miguel Padilla Campoy
       bio: Presidente de COAG Murcia.
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 
 
 ---

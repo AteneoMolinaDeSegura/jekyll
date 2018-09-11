@@ -9,10 +9,10 @@ activityImage: /images/posts/eticapoliticaycorrupcion.png
 speakers: 
     - name: D. Manuel López Bernal
       bio: Fiscal Superior de Murcia.
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Fernando Bermúdez López
       bio: Relaciones Institucionales de Amnistía I.
-      photo: /images/posts/speakerDefaultAvatar.jpg
+      photo: /images/posts/speakerNoAvatar.jpg
 
 
 ---
