@@ -1,5 +1,6 @@
 ---
 layout: post
+category: cine
 permalink: locas-de-alegria
 title: CINE ATENEO - Locas de Alegría
 subtitle: Proyección - Miércoles 12 de septiembre
