@@ -14,12 +14,39 @@ header img {
   background: white !important;
 }
 
-.mdl-layout__header .mdl-layout__drawer-button {
-  color: #424242 !important;
+.mdl-layout__drawer-button {
+  display: none !important;
+}
+
+.mdl-layout__drawer-button i {
+  color: black !important;
+}
+
+.mdl-layout__drawer .mdl-layout-title img {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+
+.mdl-layout__drawer a {
+  color: black !important;
+  padding-left: 10px !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
 }
 
 @media only screen and (max-width: 650px) {
   .ateneo-de-molina-img-title {
     width: 0;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .mdl-layout__drawer-button {
+    display: inline !important;
+  }
+
+  .mdl-layout__header-row {
+    display: none !important;
   }
 }
