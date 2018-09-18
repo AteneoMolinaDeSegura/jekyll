@@ -39,7 +39,7 @@ header img {
   .mdl-layout__drawer-button {
     display: inline !important;
   }
-  nav {
+  .mdl-layout__header-row nav {
     display: none !important;
   }
 
