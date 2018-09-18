@@ -17,12 +17,13 @@ title: Actividades | Ateneo Molina de Segura
 </div>
 <div class="activity-content mdl-grid">
   {% for post in paginator.posts %}
-  <div class="activity-card">
-    <div class="activity-info">
-      <div class="activity-card-image mdl-card mdl-shadow--2dp" style="background: url('{{post.activityImage}}') center / cover;">
-        <div class="mdl-card__title mdl-card--expand"></div>
-        <div class="mdl-card__actions">
-          <a class="no-underline-link" href="{{ post.url }}">
+    <div class="activity-card">
+        <a class="no-underline-link" href="{{ post.url }}">
+      <div class="activity-info">
+        <div class="activity-card-image mdl-card mdl-shadow--2dp" style="background: url('{{post.activityImage}}') center / cover;">
+          <div class="mdl-card__title mdl-card--expand"></div>
+          <div class="mdl-card__actions">
+
             <span class="activity-card-image__title">
               {{post.title}}
             </span>
@@ -30,11 +31,13 @@ title: Actividades | Ateneo Molina de Segura
             <span class="activity-card-image__subtitle">
               {{post.subtitle}}
             </span>
-          </a>
+
+          </div>
         </div>
       </div>
+    </a>
     </div>
-  </div>
+  
   {% endfor %}
 </div>
 <div class="page-buttons-container">
