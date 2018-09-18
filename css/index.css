@@ -13,7 +13,6 @@
     display: grid;
     grid-template-columns: 60% 40%;
     max-width: 2000px;
-    margin: 0 auto;
 }
 
 .next-activity-main-info-text-content {
