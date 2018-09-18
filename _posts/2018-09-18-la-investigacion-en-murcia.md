@@ -35,4 +35,4 @@ Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neur
 )
 
 [https://www.elespanol.com/ciencia/20180820/paradoja-german-murciano-investiga-nasa-encontrar-marte/330967591_0.html](https://www.elespanol.com/ciencia/20180820/paradoja-german-murciano-investiga-nasa-encontrar-marte/330967591_0.html)
-***
+
