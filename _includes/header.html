@@ -2,13 +2,18 @@
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       <a href="/">
-        <img class="mdl-navigation" alt="Logo Ateneo" src="/images/logo.svg">
+        <img class="mdl-navigation" id="logoAteneo" alt="Logo Ateneo" src="/images/logo.svg">
       </a>
       <a href="/">
         <img class="mdl-navigation ateneo-de-molina-img-title" alt="Ateneo Molina de Segura" src="/images/ateneo_de_molina.svg">
       </a>
       <div class="mdl-layout-spacer"></div>
-      <nav class="mdl-navigation mdl-layout--medium-screen-only">
+      <nav class="mdl-navigation">
+        <a href="/cine" class="mdl-navigation__link" href="">
+          <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
+            Cine Ateneo
+          </button>
+        </a>
         <a href="/actividades" class="mdl-navigation__link" href="">
           <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
             Actividades
@@ -23,4 +28,14 @@
       </nav>
     </div>
   </header>
+  <div class="mdl-layout__drawer">
+      <a href="/" class="mdl-layout-title no-underline-link">
+        <img alt="Logo Ateneo" src="/images/logo.svg"><span>Ateneo</span>
+      </a>
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="/cine">Cine Ateneo</a>
+        <a class="mdl-navigation__link" href="/actividades">Actividades</a>
+        <a class="mdl-navigation__link" href="/queEsElAteneo">¿Qué es el ateneo?</a>
+      </nav>
+    </div>
 </div>

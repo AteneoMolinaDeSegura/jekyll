@@ -9,11 +9,10 @@
 .next-activity-main-info-container {
     background: #000000BF;
     color: white;
-    margin: 10px;
     display: grid;
     grid-template-columns: 60% 40%;
-    max-width: 2000px;
-    margin: 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .next-activity-main-info-text-content {
@@ -42,6 +41,7 @@
     grid-column-start: 1;
     grid-column-end: 1;
 }
+
 .avatar {
     width: 100%;
     margin-top: 30px;

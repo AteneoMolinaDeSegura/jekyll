@@ -115,6 +115,7 @@ A continuación encontrarás un ejemplo de un fichero de actividad.
 ```markdown
 ---
 layout: post
+category: cine # Añadir esta línea solo si es una actividad de tipo cine.
 permalink: el-reto-de-los-hombres-ante-la-igualdad
 title: El reto de los hombres ante la igualdad
 subtitle: Las nuevas masculinidades - Jueves, 18 Enero 2018, 20:00h
@@ -156,6 +157,7 @@ Dentro de estos ficheros encontrarás una cabecera que contiene metadatos sobre 
 
 ```
 layout: post // TIENE QUE SER OBLIGATORIAMENTE ASÍ
+category: cine // AÑADIR ESTA LÍNEA SOLO SI LA ACTIVIDAD ES DE TIPO CINE
 permalink: el-reto-de-los-hombres-ante-la-igualdad // ENLACE QUE HARÁ REFERENCIA A LA PÁGINA DE LA ACTIIDAD www.ateneomolinadesegura.com/el-reto-de-los-hombres-ante-la-igualdad
 title: El reto de los hombres ante la igualdad // TÍTULO DE LA PÁGINA PRINCIPAL Y EL DETALLE DE LA ACTIVIDAD
 subtitle: Las nuevas masculinidades - Jueves, 18 Enero 2018, 20:00h  // SUBTÍTULO DE LA PÁGINA PRINCIPAL Y EL DETALLE DE LA ACTIVIDAD

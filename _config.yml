@@ -23,7 +23,7 @@ plugins:
   - jekyll-youtube
   - jekyll-admin
   - jekyll-analytics
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 # Analytics
 
@@ -33,9 +33,10 @@ jekyll_analytics:
     anonymizeIp: false
 
 # Pagination
-
-paginate: 9
-paginate_path: "/actividades/:num/"
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: "/page/:num/"
 
 # Exclude from processing. The following items will not be processed, by default.
 
