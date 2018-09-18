@@ -24,7 +24,7 @@ relatedLinks:
       
 ---
 
-###  Debate:  LA INVESTIGACIÓN  EN MURCIA- Jueves, 1 de octubre de 2018, 20:00h
+###  LA INVESTIGACIÓN  EN MURCIA- Jueves, 1 de octubre de 2018, 20:00h
 
 Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neurocientífico) y D. Pablo Artal Soriano (Cat de Óptica e investigador muy destacad en este campo).  
 
