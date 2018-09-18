@@ -22,8 +22,9 @@ relatedLinks:
 
 ###  Debate:  LA INVESTIGACIÓN  EN MURCIA- Jueves, 1 de octubre de 2018, 20:00h
 
-Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neurocientífico) y D. Pablo Artal Soriano (Cat de Óptica e investigador muy destacad en este campo).
-  ¿Se invetiga en Murcia?,¿se destinan los recursos necesarios y se invierten adecuadamente?¿cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿se gestiona adecuadamente la investigación en la universidad?...
+Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neurocientífico) y D. Pablo Artal Soriano (Cat de Óptica e investigador muy destacad en este campo).  
+
+  ¿Se investiga en Murcia?,¿se destinan los recursos necesarios y se invierten adecuadamente?¿cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿se gestiona adecuadamente la investigación en la universidad?...
 
 
 
