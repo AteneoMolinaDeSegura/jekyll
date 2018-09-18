@@ -15,7 +15,7 @@ speakers:
       bio: Cat. de Ótica de UMU.  Dtor. del Laboratorio de Óptica de la UMU
 relatedLinks: 
     - name: Instituto de Neurociencia de la Universidad de Alicante.
-      url: http://https://www.youtube.com/watch?v=mYbUc1lDsh4ahige.org/red/ahige-murcia
+      url: http://https://www.youtube.com/watch?v=mYbUc1lDsh4
     - name: Lo imposible:  lo mejor por venir. Pablo Artal
       url: https://www.youtube.com/watch?v=KCLzib7xudg
 ---
