@@ -16,7 +16,7 @@ speakers:
 relatedLinks: 
     - name: Instituto de Neurociencia de la Universidad de Alicante.
       url: http://https://www.youtube.com/watch?v=mYbUc1lDsh4
-    - name: Lo imposible:  lo mejor por venir. Pablo Artal
+    - name: "Lo imposible: lo mejor por venir. Pablo Artal"
       url: https://www.youtube.com/watch?v=KCLzib7xudg   
 ---
 
@@ -24,7 +24,7 @@ relatedLinks:
 
 Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neurocientífico) y D. Pablo Artal Soriano (Cat de Óptica e investigador muy destacad en este campo).  
 
-  ¿Se investiga en Murcia?,¿se destinan los recursos necesarios y se invierten adecuadamente?¿cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿se gestiona adecuadamente la investigación en la universidad?...
+¿Se investiga en Murcia?,¿se destinan los recursos necesarios y se invierten adecuadamente?¿cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿se gestiona adecuadamente la investigación en la universidad?...
 
 
 ***
