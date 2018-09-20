@@ -12,7 +12,7 @@ speakers:
       bio: Dtor. del Instituto de Neurociencia de Alicante
     - name: D. Pablo Artal Soriano
       photo: /images/posts/fotoartal.png
-      bio: Cat. de Ótica de UMU.  Dtor. del Laboratorio de Óptica de la UMU
+      bio: Cat. de Óptica de UMU.  Dtor. del Laboratorio de Óptica de la UMU
 relatedLinks: 
     - name: Instituto de Neurociencia de la Universidad de Alicante.
       url: http://https://www.youtube.com/watch?v=mYbUc1lDsh4
