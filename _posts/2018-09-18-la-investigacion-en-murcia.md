@@ -26,7 +26,7 @@ Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neur
 
 ¿Se investiga en Murcia?,¿se destinan los recursos necesarios y se invierten adecuadamente?¿cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿se gestiona adecuadamente la investigación en la universidad?...
 
-
+![cartel](/images/posts/bannerinvestigacion.png)
 ***
 
 ### Artículos relacionados
