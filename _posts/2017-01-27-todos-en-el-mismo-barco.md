@@ -11,7 +11,7 @@ relatedLinks:
       url: https://www.youtube.com/watch?v=GoaEsKcjmUI
 ---
 
-###  PROYECCIÓN DEL DOCUMENTAL IN THE SAME BOAT (Todos en el mismo barco) 27 de enero, 2018.- 20:00h
+###  PROYECCIÓN DEL DOCUMENTAL IN THE SAME BOAT (Todos en el mismo barco) 27 de enero, 2017.- 20:00h
 
 Dir. RUDY GNUTTI.- Pere Portabella Films 59
 Intervienen:  Zigmunt Bauman, José Mujica, Tony Atkinson...
