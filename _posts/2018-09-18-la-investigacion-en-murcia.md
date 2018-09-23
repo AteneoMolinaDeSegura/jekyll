@@ -7,7 +7,7 @@ placeUrl: https://www.google.es/maps/place/Escuela+de+Educaci%C3%B3n+Infantil+N%
 banner: /images/posts/bannerinvestigacion.png
 activityImage: /images/posts/lainvestigacionenmurcia3.jpg
 speakers: 
-    - name: D. Salvador Martínez López
+    - name: D. Salvador Martínez Pérez
       photo: /images/posts/fotosalvador.png
       bio: Dtor. del Instituto de Neurociencia de Alicante
     - name: D. Pablo Artal Soriano
