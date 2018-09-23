@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: no-es-para-dormir-la-noche
 title: No es para dormir la noche
 subtitle: Recital de poesía - Jueves, 22 Junio 2017, 20:00h.

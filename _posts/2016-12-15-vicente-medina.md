@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: vicente-medina
 title: La Navidad en Vicente Medina  
 subtitle: 150 aniversario de su nacimiento.- 15 de diciembre de 2016, 20:00h.- Biblooteca Salvador García Aguila 

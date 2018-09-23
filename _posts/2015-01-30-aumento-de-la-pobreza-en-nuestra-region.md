@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: aumento-de-la-pobreza-en-nuestra-region
 title: Aumento de la pobreza en nuestra Región
 subtitle: Vanitas Vanitatum.  Jueves, 30 de enero, 2015, 20:00h

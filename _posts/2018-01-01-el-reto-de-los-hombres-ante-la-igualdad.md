@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: el-reto-de-los-hombres-ante-la-igualdad
 title: El reto de los hombres ante la igualdad
 subtitle: Las nuevas masculinidades - Jueves, 18 Enero 2018, 20:00h

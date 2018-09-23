@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: situacion-actual-de-lajuventud
 title: Situación actual de la Juventud en la Región de Murcia
 subtitle: Jueves, 27 de marzo, 2015, 20:00h

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: martinez-lozano  
 title: Martínez Lozano (Visita guiada) 
 subtitle: Retrospectiva de su obra pictórica 11 de noviembre de 2016, 20:00h.- Sala de Exp. El Jardín 

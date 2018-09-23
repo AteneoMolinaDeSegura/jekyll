@@ -115,6 +115,7 @@ A continuación encontrarás un ejemplo de un fichero de actividad.
 ```markdown
 ---
 layout: post
+category: actividad # Añadir esta línea solo si es una actividad normal.
 category: cine # Añadir esta línea solo si es una actividad de tipo cine.
 permalink: el-reto-de-los-hombres-ante-la-igualdad
 title: El reto de los hombres ante la igualdad
@@ -282,6 +283,7 @@ Veamos ejemplos de uso en los banners y la imágen de la actividad:
 ```markdown
 ---
 layout: post
+category: actividad
 permalink: situacion-actual-de-lajuventud
 ......
 banner: /images/posts/situaciondelajuventuennuestraregion2.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: murcia-abocada-a-ser-un-desierto 
 title: "Murcia: ¿abocada a ser un desierto?"
 subtitle: 2 de junio 2016, 20:00h  

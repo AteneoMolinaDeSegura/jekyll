@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: jovenes-con-talento
 title: Jóvenes con Talento
 subtitle:  Jueves, 23 de junio, 2016, 20:00h

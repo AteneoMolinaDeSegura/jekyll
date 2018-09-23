@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: islam-paz-o-violencia  
 title: "Islam: ¿Paz o violencia?"
 subtitle: 24 de febrero de 2016, 20:00h.- Aula de cultura de Cajamurcia 

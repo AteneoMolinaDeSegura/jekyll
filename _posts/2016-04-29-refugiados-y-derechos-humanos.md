@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: refugiados-y-derechos-humanos  
 title: Refugiados y Derechos Humanos  
 subtitle: 29 de abril de 2016, 20:00h.- Aula de cultura de Cajamurcia 

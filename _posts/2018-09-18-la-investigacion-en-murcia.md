@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: la-investigacion-en-murcia
 title: La investigación en Murcia
 subtitle:  Jueves, 1 de octubre, 2018, 20:00h Salón de Actos del Centro de Infantil Nº 1(Paseo Rosales)

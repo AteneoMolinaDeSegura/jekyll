@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: escuchar-y-mirar-a-velazquez
 title: Escuchar y mirar a Velázquez
 subtitle: Música, poesía y pintura - Miércoles, 15 de Noviembre 2017, 20:00h.

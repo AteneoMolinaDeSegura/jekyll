@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: todos-en-el-mismo-barco
 title: "IN THE SAME BOAT (Todos en el mismo barco)"
 subtitle:  27 de enero de 2017, 20:00h Auditorio Virginia Martínez del Museo de la Muralla (MUDEM)

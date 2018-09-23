@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: etica-politica-y-la-corrupcion  
 title: Ética Política y la corrupción  
 subtitle: 8 octubre 2015, 20:00h  

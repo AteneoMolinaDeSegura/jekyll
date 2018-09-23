@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: primer-concierto-tomas
 title: Concierto de guitarra de Tomás Fernández Gil  
 subtitle: 26 de marzo 2015, 20:00h  

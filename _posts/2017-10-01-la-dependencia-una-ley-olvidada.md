@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: la-dependencia
 title: La dependencia ¿una ley olvidada?
 subtitle: Mesa redonda y posterior debate - Jueves, 5 Octubre 2017, 20:00h.

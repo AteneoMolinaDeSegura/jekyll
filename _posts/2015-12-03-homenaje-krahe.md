@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: homenaje-krahe
 title: KRAHE
 subtitle: Vanitas Vanitatum.  Jueves, 3 de diciembre, 2015, 20:00h

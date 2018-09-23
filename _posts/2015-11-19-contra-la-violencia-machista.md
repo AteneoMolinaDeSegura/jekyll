@@ -1,5 +1,6 @@
 ---
 layout: post
+category: actividad
 permalink: contra-la-violencia-machista
 title: Contra la Violencia Machista
 subtitle: 19 de noviembre, 2015, 20:00h
