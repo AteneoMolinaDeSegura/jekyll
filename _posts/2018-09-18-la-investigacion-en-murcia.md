@@ -25,7 +25,7 @@ relatedLinks:
 
 Empezamos el curso debatiendo con la ayuda de D. Salvador Martínez Pérez (Neurocientífico) y D. Pablo Artal Soriano (Cat. de Óptica e investigador muy destacado en este campo).  
 
-¿Se investiga en Murcia?,¿se destinan los recursos necesarios y se invierten adecuadamente?¿cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿se gestiona adecuadamente la investigación en la universidad?...
+¿Se investiga en Murcia?¿Se destinan los recursos necesarios y se invierten adecuadamente?¿Cuánto afectará la fuga de talento que hemos sufrido en estos últimos años? ¿Se gestiona adecuadamente la investigación en la universidad?...
 
 ![cartel](/images/posts/bannerinvestigacion.png)
 ***
