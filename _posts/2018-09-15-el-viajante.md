@@ -1,3 +1,4 @@
+---
 layout: post
 category: cine
 permalink: el-viajante
