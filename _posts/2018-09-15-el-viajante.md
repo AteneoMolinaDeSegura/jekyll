@@ -17,4 +17,3 @@ relatedLinks:
 
 ![cartel](/images/posts/elviajante1.jpg)
 
-{https://www.filmaffinity.com/es/film950957.html}
