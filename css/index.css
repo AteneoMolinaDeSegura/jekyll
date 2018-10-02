@@ -7,7 +7,7 @@
 }
 
 .next-activity-main-info-container {
-    background: #000000BF;
+    background-color: #000000BF;
     color: white;
     display: grid;
     grid-template-columns: 60% 40%;
@@ -57,7 +57,7 @@
 
 .next-activity-content-button {
     color: white !important;
-    background: #8a8c8c !important;
+    background-color: #8a8c8c !important;
     float: left;
 }
 
