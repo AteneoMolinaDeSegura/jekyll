@@ -35,7 +35,7 @@ header img {
   padding-bottom: 10px !important;
 }
 
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 760px) {
   .mdl-layout__drawer-button {
     display: inline !important;
   }
@@ -46,9 +46,7 @@ header img {
   #logoAteneo {
     margin-left: 34px !important;
   }
-}
 
-@media only screen and (max-width: 430px) {
   .ateneo-de-molina-img-title {
     width: 60%;
   }
