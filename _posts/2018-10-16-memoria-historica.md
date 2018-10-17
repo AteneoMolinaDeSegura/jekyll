@@ -21,7 +21,7 @@ relatedLinks:
 
 ### Debate:  MEMORIA HISTÓRICA - Jueves, 25 de octubre, 20:00h.- Auditorio Virginia Martínez.- Museo de la Muralla (MUDEM) Molina de Segura
 
-IMPUNIDAD
+###IMPUNIDAD
 Las autoridades españolas continuaron cerrando investigaciones sobre crímenes de
 derecho internacional cometidos durante la Guerra Civil y el franquismo, argumentando
 que no era posible investigar los crímenes denunciados —que incluían desapariciones
