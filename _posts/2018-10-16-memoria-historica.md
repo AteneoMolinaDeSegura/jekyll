@@ -32,15 +32,15 @@ extrajudicial, dejando que las familias y las organizaciones interesadas acometi
 proyectos de exhumación sin el apoyo del Estado.
 Del infome 17/18 de Amnistía Internacional sobre España
 
-![cartel](/images/posts/memoriahistorica.png)
+![cartel](/images/posts/memoriahistorica.jpg)
 
 ***
 
 ### Artículos relacionados
 
 [Franco y el franquismo en perspectiva histórica]
-{https://www.infolibre.es/noticias/tintalibre/2018/10/05/franco_franquismo_perspectiva_historica_87271_1042.html}
+(https://www.infolibre.es/noticias/tintalibre/2018/10/05/franco_franquismo_perspectiva_historica_87271_1042.html)
 
 [ESPAÑA: Recomendaciones de Amnistía Internacional a las Cortes Generales para una realización efectiva del derecho a la verdad, la justicia y la reparación de las víctimas de la Guerra Civil y el franquismo.]
-{https://doc.es.amnesty.org/ms-opac/doc?q=memoria+hist%C3%B3rica&start=3&rows=1&sort=fecha%20desc&fq=norm&fv=*&fo=and&fq=mssearch_mlt98&fv=gseg01&fo=and}
+(https://doc.es.amnesty.org/ms-opac/doc?q=memoria+hist%C3%B3rica&start=3&rows=1&sort=fecha%20desc&fq=norm&fv=*&fo=and&fq=mssearch_mlt98&fv=gseg01&fo=and)
 ***
