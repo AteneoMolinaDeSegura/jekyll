@@ -19,9 +19,7 @@ relatedLinks:
       url: https://memoriahistorica.org.es/
 ---
 
-### Debate:  MEMORIA HISTÓRICA - Jueves, 25 de octubre, 20:00h.- Auditorio Virginia Martínez.- Museo de la Muralla (MUDEM) Molina de Segura
-
-### IMPUNIDAD
+### Impunidad.
 
 Las autoridades españolas continuaron cerrando investigaciones sobre crímenes de
 derecho internacional cometidos durante la Guerra Civil y el franquismo, argumentando
@@ -32,6 +30,10 @@ e identificar los restos de víctimas de desaparición forzada y ejecución
 extrajudicial, dejando que las familias y las organizaciones interesadas acometieran los
 proyectos de exhumación sin el apoyo del Estado.
 Del infome 17/18 de Amnistía Internacional sobre España
+
+El próximo Jueves, 25 de octubre, a las 20:00h se llevará a cabo en el Auditorio Virginia Martínez - Museo de la Muralla (MUDEM) de Molina de Segura un debate sobre la memoria histórica donde participarán José Ant. Zamora Zaragoza
+Dtor. en Filosofía e Investigador del Consejo Superior de Investigaciones Científicas CSIC. y Diego Jiménez García,
+Miembro del Colectivo Memoria Histórica de Murcia y colaborador habitual del Diario La Opinión.
 
 ![cartel](/images/posts/memoriahitorica.jpg)
 
