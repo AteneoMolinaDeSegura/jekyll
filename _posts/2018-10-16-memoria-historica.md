@@ -3,8 +3,8 @@
 layout: post
 category: actividad
 permalink: memoria-historica
-title: "Debate: MEMORIA HISTÓRICA"
-subtitle: Jueves, 25 DE OCTUBRE, 20:00h
+title: Debate Memoria Histórica
+subtitle: Jueves, 25 DE OCTUBRE, 20:00h.- Auditorio Virginia Martínez.- Museo de la Muralla (MUDEM) Molina de Segura
 placeUrl: https://www.google.es/maps/place/MUDEM/@38.0511487,-1.2163453,17z/data=!3m1!4b1!4m5!3m4!1s0xd647f567ba291e1:0xde6031502e1b4fbc!8m2!3d38.0511487!4d-1.2141566?hl=es&authuser=0
 banner: /images/posts/memoriahistorica.jpg
 activityImage: /images/posts/memoriahistorica.jpg
