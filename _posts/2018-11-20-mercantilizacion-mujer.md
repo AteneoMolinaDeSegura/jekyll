@@ -44,7 +44,7 @@ Colectivo +Mujeres.
 
 ### Artículos relacionados
 
-[Prostitución de Mujeres.  Escuela de Desigualdad Humana]ç
+[Prostitución de Mujeres.  Escuela de Desigualdad Humana]
 http://mujeresenred.net/IMG/pdf/prostitucion_de_mujeres_escuela_desigualdad_humana.pdf
 
 [Público: Cuando la República dijo sí a la abolición de la prostitución. ]
