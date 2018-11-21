@@ -9,10 +9,10 @@ banner: /images/posts/bannermerc.png
 activityImage: /images/posts/mercantilizacion.png
 speakers: 
     - name: Dña. Ángela López Vegas
-    photo: /images/posts
+    
       bio: Coord. Programa Oblatas Murcia
     - name: Dña. Ramona López Gómez
-    photo: /images/posts
+   
       bio: Colectivo+Mujeres
 relatedLinks: 
     - name: rtve.- Milenium:  "Proxenetas".
