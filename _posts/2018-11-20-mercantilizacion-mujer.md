@@ -9,10 +9,10 @@ banner: /images/posts/bannermerc.png
 activityImage: /images/posts/mercantilizacion.png
 speakers: 
     - name: Dña. Ángela López Vegas
-    
+    photo: /images/posts
       bio: Coord. Programa Oblatas Murcia
     - name: Dña. Ramona López Gómez
-    
+    photo: /images/posts
       bio: Colectivo+Mujeres
 relatedLinks: 
     - name: rtve.- Milenium:  "Proxenetas".
@@ -37,6 +37,7 @@ Coordinadora del Programa Oblatas Murcia
 Dña. Ramona López Gómez.
 Colectivo +Mujeres.
 
+
 ![cartel](/images/posts/mercantilizacion.png)
 
 ***
@@ -48,5 +49,6 @@ http://mujeresenred.net/IMG/pdf/prostitucion_de_mujeres_escuela_desigualdad_huma
 
 [Público: Cuando la República dijo sí a la abolición de la prostitución. ]
 https://www.publico.es/sociedad/abolicionismo-republica-dijo-abolicion-prostitucion.html
+
 ***
 
