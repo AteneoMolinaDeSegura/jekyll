@@ -11,7 +11,7 @@ speakers:
     - name: Dña. Ángela López Vegas
            bio: Coord. Programa Oblatas Murcia
     - name: Dña. Ramona López Gómez
-            bio:Colectivo+Mujeres
+            bio: Colectivo+Mujeres
 relatedLinks: 
     - name: rtve.- Milenium:  "Proxenetas".
       url:http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/
