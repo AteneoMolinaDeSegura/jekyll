@@ -19,8 +19,8 @@ relatedLinks:
 
 ### Prostitución y Vientres de Alquiler
 
-"El sistema sigue girando y pide carne fresca, nueva, cada día. Para mantenerlo, no sacrificamos a nuestras hijas, lo que hacemos es sacrificar a las hijas de los más pobres del mundo"
-"Richard Gere existe; Pretty Woman, no".
+El sistema sigue girando y pide carne fresca, nueva, cada día. Para mantenerlo, no sacrificamos a nuestras hijas, lo que hacemos es sacrificar a las hijas de los más pobres del mundo.
+Richard Gere existe; Pretty Woman, no.
 Mabel Lozano.
 
 Qué es el vientre de alquiler
