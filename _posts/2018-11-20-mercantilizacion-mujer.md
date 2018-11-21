@@ -1,22 +1,22 @@
 ---
 
-layout:post
-category:actividad
-permalink:mercantilizacion-mujer
-title:La Mercantilización del Cuerpo de la Mujer  
+layout: post
+category: actividad
+permalink: mercantilizacion-mujer
+title: La Mercantilización del Cuerpo de la Mujer  
 Prostitución y Vientres de Alquiler
-subtitle:Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
+subtitle: Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
 
-placeUrl:https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
+placeUrl: https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
 
-banner:/images/posts/bannermerc.png
-activityImage:/images/posts/mercantilizacion.png
-speakers:-name:Dña. Ángela López Vegas 
+banner: /images/posts/bannermerc.png
+activityImage: /images/posts/mercantilizacion.png
+speakers: -name:Dña. Ángela López Vegas 
     bio:Coord. Programa Oblatas Murcia
     -name:Dña. Ramona López Gómez  
     bio:Colectivo+Mujeres  
     
-relatedLinks:-name:rtve  Milenium  Proxenetas
+relatedLinks: -name: Milenium  Proxenetas
       url:http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/
 ---
 
