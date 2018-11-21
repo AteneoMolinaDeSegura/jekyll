@@ -1,5 +1,4 @@
 ---
-
 layout:  post
 category:  actividad
 permalink:  mercantilizacion-mujer
@@ -11,13 +10,13 @@ placeUrl:  https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data
 
 banner:  /images/posts/bannermerc.png
 activityImage:  /images/posts/mercantilizacion.png
-speakers:  -name:Dña. Ángela López Vegas 
+speakers:  
+    -name:Dña. Ángela López Vegas 
     bio:Coord. Programa Oblatas Murcia
     -name:Dña. Ramona López Gómez  
     bio:Colectivo+Mujeres  
     
-relatedLinks:  -name: Milenium  Proxenetas
-      url:http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/  
+relatedLinks:  -name: Milenium  Proxenetas      url:http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/  
       
       
 ---
