@@ -5,44 +5,46 @@ permalink: mercantilizacion-mujer
 title: La Mercantilización del Cuerpo de la Mujer.  Prostitución y Vientres de Alquiler
 subtitle: Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura
 placeUrl: https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
-banner: /images/posts/logoateneoweb.png
-activityImage: /images/posts/memoriahitorica.jpg
+banner: /images/posts/bannermerc.png
+activityImage: /images/posts/mercantilizacion.png
 speakers: 
-    - name: José Ant. Zamora Zaragoza
-      photo: /images/posts/jantoniozamora.jpg
-      bio: Dtor. en Filosofía.- Investigador del Consejo Superior de Investigaciones Científicas CSIC.
-    - name: Diego Jiménez García
-      photo: /images/posts/diegojimenez.jpg
-      bio: Miembro del Colectivo Memoria Histórica de Murcia.- Colaborador habitual del Diario La Opinión.
+    - name: Dña. Ángela López Vegas
+           bio: Coord. Programa Oblatas Murcia
+    - name: Dña. Ramona López Gómez
+            bio:Colectivo+Mujeres
 relatedLinks: 
-    - name: Asociación para la recuperaciónde la Memoria Histórica.
-      url: https://memoriahistorica.org.es/
+    - name: rtve.- Milenium:  "Proxenetas".
+      url:http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/
 ---
 
-### Impunidad.
+### Prostitución y Vientres de Alquiler
 
-Las autoridades españolas continuaron cerrando investigaciones sobre crímenes de
-derecho internacional cometidos durante la Guerra Civil y el franquismo, argumentando
-que no era posible investigar los crímenes denunciados —que incluían desapariciones
-forzadas y tortura— debido, entre otras cosas, a la Ley de Amnistía y a la
-prescripción de los delitos. Además, siguieron sin adoptar medidas para localizar
-e identificar los restos de víctimas de desaparición forzada y ejecución
-extrajudicial, dejando que las familias y las organizaciones interesadas acometieran los
-proyectos de exhumación sin el apoyo del Estado.
-Del infome 17/18 de Amnistía Internacional sobre España
+"El sistema sigue girando y pide carne fresca, nueva, cada día. Para mantenerlo, no sacrificamos a nuestras hijas, lo que hacemos es sacrificar a las hijas de los más pobres del mundo"
+"Richard Gere existe; Pretty Woman, no".
+Mabel Lozano.
 
-El próximo Jueves, 25 de octubre, a las 20:00h se llevará a cabo en el Auditorio Virginia Martínez - Museo de la Muralla (MUDEM) de Molina de Segura un debate sobre la memoria histórica donde participarán José Ant. Zamora Zaragoza
-Dtor. en Filosofía e Investigador del Consejo Superior de Investigaciones Científicas CSIC. y Diego Jiménez García,
-Miembro del Colectivo Memoria Histórica de Murcia y colaborador habitual del Diario La Opinión.
+Qué es el vientre de alquiler
+Esta técnica reproductiva se basa en la cesión voluntaria, por parte de una mujer, de su capacidad gestante para llevar a término el embarazo del hijo de una pareja u hombre soltero. Generalmente las parejas que desean iniciar este proceso son personas que han agotado todas las vías médicas para la consecución de una gestación y han resultado, ya sea por problemas de salud o fertilidad, incapaces de conseguir el embarazo deseado. También ocurre que recurren a esta técnica de reproducción asistida las parejas homosexuales de varones y hombres solteros que desean ser padres.
 
-![cartel](/images/posts/memoriahitorica.jpg)
+En conclusión, una madre de alquiler es una mujer que acepta, mediante un acuerdo, quedarse embarazada con el objetivo de gestar y dar a luz a un niño que será criado por una pareja o persona soltera como hijo propio.
+Bárbara de la Macorra
+
+El próximo Jueves, 29 de noviembre, a las 20:00h se llevará a cabo en el Salón de Actos del Centro de Formación en Experiencias Agrarias (CIFEA) -Antigua Capacitación Agraria- de Molina de Segura un debate sobre LA MERCANTILIZACIÓN DEL CUERPO DE LA MUJER.- Prostitución y Vientres de Alquiler.
+Participarán: Dña. Ángela López Vegas.
+Coordinadora del Programa Oblatas Murcia
+Dña. Ramona López Gómez.
+Colectivo +Mujeres.
+
+![cartel](/images/posts/mercantilizacion.png)
 
 ***
 
 ### Artículos relacionados
 
-[Franco y el franquismo en perspectiva histórica](https://www.infolibre.es/noticias/tintalibre/2018/10/05/franco_franquismo_perspectiva_historica_87271_1042.html)
+[Prostitución de Mujeres.  Escuela de Desigualdad Humana]ç
+http://mujeresenred.net/IMG/pdf/prostitucion_de_mujeres_escuela_desigualdad_humana.pdf
 
-[ESPAÑA: Recomendaciones de Amnistía Internacional a las Cortes Generales para una realización efectiva del derecho a la verdad, la justicia y la reparación de las víctimas de la Guerra Civil y el franquismo.](https://doc.es.amnesty.org/ms-opac/doc?q=memoria+hist%C3%B3rica&start=3&rows=1&sort=fecha%20desc&fq=norm&fv=*&fo=and&fq=mssearch_mlt98&fv=gseg01&fo=and)
+[Público: Cuando la República dijo sí a la abolición de la prostitución. ]
+https://www.publico.es/sociedad/abolicionismo-republica-dijo-abolicion-prostitucion.html
 ***
 
