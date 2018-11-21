@@ -1,20 +1,20 @@
 ---
-layout: post
-category: actividad
+layout:post
+category:actividad
 permalink:mercantilizacion-mujer
 title:La Mercantilización del Cuerpo de la Mujer  
 Prostitución y Vientres de Alquiler
-subtitle: Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
+subtitle:Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
 
-placeUrl: https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
+placeUrl:https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
 
-banner: /images/posts/bannermerc.png
-activityImage: /images/posts/mercantilizacion.png
+banner:/images/posts/bannermerc.png
+activityImage:/images/posts/mercantilizacion.png
 speakers: 
-    - name: Dña. Ángela López Vegas 
-    bio: Coord. Programa Oblatas Murcia
-    - name: Dña. Ramona López Gómez  
-    bio: Colectivo+Mujeres  
+    - name:Dña. Ángela López Vegas 
+    bio:Coord. Programa Oblatas Murcia
+    - name:Dña. Ramona López Gómez  
+    bio:Colectivo+Mujeres  
     
 relatedLinks: 
     - name: rtve.- Milenium:  "Proxenetas".
@@ -46,10 +46,10 @@ Colectivo +Mujeres.
 
 ### Artículos relacionados
 
-[Prostitución de Mujeres.  Escuela de Desigualdad Humana]
+[Prostitución de Mujeres.  Escuela de Desigualdad Humana]  
 http://mujeresenred.net/IMG/pdf/prostitucion_de_mujeres_escuela_desigualdad_humana.pdf
 
-[Público: Cuando la República dijo sí a la abolición de la prostitución. ]
+[Público: Cuando la República dijo sí a la abolición de la prostitución. ]  
 https://www.publico.es/sociedad/abolicionismo-republica-dijo-abolicion-prostitucion.html
 
 ***
