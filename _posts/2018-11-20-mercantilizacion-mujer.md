@@ -1,23 +1,23 @@
 ---
 layout: post
 category: actividad
-permalink: mercantilizacion-mujer  
+permalink: mercantilizacion-mujer
 title: La mercantilización del cuerpo de la mujer   
 subtitle: Prostitución y Vientres de Alquiler Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
-
 placeUrl: https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
-
-banner:  /images/posts/bannermerc.png
+banner: /images/posts/logoateneoweb.png
 activityImage:  /images/posts/mercantilizacion.png
 speakers:  
-    -name:Dña. Ángela López Vegas 
-    bio:Coord. Programa Oblatas Murcia
-    -name:Dña. Ramona López Gómez  
-    bio:Colectivo+Mujeres  
+    - name: Dña. Ángela López Vegas 
+      bio: Coord. Programa Oblatas Murcia
+      photo: /images/posts/speakerNoAvatar.jpg
+    - name: Dña. Ramona López Gómez  
+      bio: Colectivo+Mujeres  
+      photo: /images/posts/speakerNoAvatar.jpg
     
-relatedLinks:  -name: Milenium  Proxenetas      url:http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/  
-      
-      
+relatedLinks:  
+    - name: Milenium  Proxenetas
+      url: http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/     
 ---
 
 ### Prostitución y Vientres de Alquiler  
@@ -45,11 +45,9 @@ Colectivo +Mujeres.
 
 ### Artículos relacionados
 
-[Prostitución de Mujeres.  Escuela de Desigualdad Humana]  
-http://mujeresenred.net/IMG/pdf/prostitucion_de_mujeres_escuela_desigualdad_humana.pdf
+[Prostitución de Mujeres.  Escuela de Desigualdad Humana](http://mujeresenred.net/IMG/pdf/prostitucion_de_mujeres_escuela_desigualdad_humana.pdf)
 
-[Público: Cuando la República dijo sí a la abolición de la prostitución. ]  
-https://www.publico.es/sociedad/abolicionismo-republica-dijo-abolicion-prostitucion.html
+[Público: Cuando la República dijo sí a la abolición de la prostitución.](https://www.publico.es/sociedad/abolicionismo-republica-dijo-abolicion-prostitucion.html)
 
 ***
 
