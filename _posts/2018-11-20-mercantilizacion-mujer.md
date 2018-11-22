@@ -3,7 +3,7 @@ layout: post
 category: actividad
 permalink: mercantilizacion-mujer
 title: La mercantilización del cuerpo de la mujer   
-subtitle: Prostitución y Vientres de Alquiler Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
+subtitle: "Prostitución y Vientres de Alquiler<br/> Jueves 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).<br/> Antigua Capacitación Agraria.- Molina de Segura"
 placeUrl: https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
 banner: /images/posts/logoateneoweb.png
 activityImage:  /images/posts/mercantilizacion.png
@@ -20,7 +20,7 @@ relatedLinks:
       url: http://www.rtve.es/alacarta/videos/millennium/millennium-proxenetas/4826786/     
 ---
 
-### Prostitución y Vientres de Alquiler  
+### Prostitución y Vientres de Alquiler.  
 
 El sistema sigue girando y pide carne fresca, nueva, cada día. Para mantenerlo, no sacrificamos a nuestras hijas, lo que hacemos es sacrificar a las hijas de los más pobres del mundo.
 Richard Gere existe; Pretty Woman, no.
