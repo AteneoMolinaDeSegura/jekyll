@@ -2,7 +2,7 @@
 layout:  post
 category:  actividad
 permalink:  mercantilizacion-mujer
-title:  La Mercantilización del Cuerpo de la Mujer.  
+title:  La mercantilización del cuerpo de la mujer  
 subtitle: Prostitución y Vientres de Alquiler Jueves, 29 DE NOVIEMBRE, 20:00h.- Salón de Actos del CIFEA (Centro Integrado de Formación en Experiencias Agrarias).- Antigua Capacitación Agraria.- Molina de Segura  
 
 placeUrl:  https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,15z/data=!4m5!3m4!1s0x0:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067
