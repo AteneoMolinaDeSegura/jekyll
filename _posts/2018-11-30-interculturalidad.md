@@ -12,4 +12,3 @@ activityImage:  /images/posts/interculturalidad2018.png
 ![cartel](/images/posts/interculturalidad2018.png)
 
 ***
-
