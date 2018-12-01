@@ -16,9 +16,6 @@ title: Ateneo Molina de Segura
       <h4>
         {{ post.subtitle }}
       </h4>
-      <h6>{{ post.content | strip_html | truncatewords: site.numberOfWordsForPostPreview }}
-      <a href="{{ post.url }} "> leer más</a>.
-      </h6>
       {% include share-buttons.html %}
     </div>
     {% include speakers.html speakers = post.speakers placeUrl = post.placeUrl %}
