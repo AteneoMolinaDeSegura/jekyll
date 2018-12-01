@@ -8,6 +8,20 @@ placeUrl: https://www.google.es/maps/place/MUDEM/@38.0511487,-1.2163453,17z/data
 banner: /images/posts/logoateneoweb.png
 activityImage:  /images/posts/interculturalidad2018.png
 
+speakers:  
+    - name: D,. Fulgenico Puche 
+      bio: Exalcalde de Molina de Segura y exdirector de la Oficina de Extranjería
+      photo: /images/posts/speakerNoAvatar.jpg
+    - name: Dña. Safy Dieme  
+      bio: Mujer senegalesa  
+      photo: /images/posts/speakerNoAvatar.jpg
+    - name: D. Ángel Navarro García 
+      bio: Cconceja de Bienestar Social
+      photo: /images/posts/speakerNoAvatar.jpg
+    - name: D. José María Pacheco
+      bio: Plataforma de la Inmigración de Molina 
+      photo: /images/posts/speakerNoAvatar.jpg
+
 
 ![cartel](/images/posts/interculturalidad2018.png)
 
