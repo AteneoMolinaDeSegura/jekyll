@@ -16,4 +16,4 @@ relatedLinks:
 ### Miércoles, 5 de diciembre-2018 , 19:00 h. Auditorio Virginia Martínez del MUDEM.
 
 
-![cartel](/images/posts/tripticojpg2018.jpg)
+![cartel](/images/posts/interculturalidad2018.png)
