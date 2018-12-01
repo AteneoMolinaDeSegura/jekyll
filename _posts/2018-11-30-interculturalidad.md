@@ -16,7 +16,7 @@ speakers:
       bio: Mujer senegalesa  
       photo: /images/posts/speakerNoAvatar.jpg
     - name: D. Ángel Navarro García 
-      bio: Cconceja de Bienestar Social
+      bio: Concejal de Bienestar Social
       photo: /images/posts/speakerNoAvatar.jpg
     - name: D. José María Pacheco
       bio: Plataforma de la Inmigración de Molina 
