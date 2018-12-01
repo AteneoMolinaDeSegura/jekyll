@@ -9,7 +9,7 @@ banner: /images/posts/logoateneoweb.png
 activityImage:  /images/posts/interculturalidad2018.png
 
 speakers:  
-    - name: D. Fulgenico Puche 
+    - name: D. Fulgencio Puche 
       bio: Exalcalde de Molina de Segura y exdirector de la Oficina de Extranjería
       photo: /images/posts/speakerNoAvatar.jpg
     - name: Dña. Safy Dieme  
