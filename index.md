@@ -2,7 +2,9 @@
 layout: page 
 title: Ateneo Molina de Segura
 --- 
-{% for post in site.posts limit:1 %}
+{% assign posts_filtered_by_date = site.posts | where_exp: 'post', 'post.eventdate > site.time' %}
+{% assign sorted_posts = posts_filtered_by_date | sort: 'eventdate' %}
+{% for post in sorted_posts limit : 1 %}
 <div class="next-activity-container" style="background-image: url('{{ post.banner }}')">
 <a class="no-underline-link" href="{{ post.url }} ">
   <div class="next-activity-main-info-container">
