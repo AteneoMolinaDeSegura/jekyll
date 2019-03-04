@@ -10,6 +10,8 @@ Si quieres colaborar en la edición y mantenimiento de este proyecto no dudes en
 
 La web se actualiza de forma automática (puede tardar unos minutos) cada vez cualquier archivo cambia, se añade o elimina en la rama principal del proyecto. Si se edita el contenido de algún post desde la web de GitHub manualmente, se añade un commit a la rama ``master`` diréctamente o se envía una pull request contra ``master`` la web se actualizará automáticamente.
 
+Además, para poder tener varios posts en el futuro y actualizar el que se muestra como "próxima actividad" la web se actualizará automáticamente cada noche cambiando la próxima actividad que tendremos en el ateneo.
+
 # Participar añadiendo o editando contenido
 
 Lo primero que debemos tener en cuenta es que para poder añadir o modificar contenido en la web del Ateneo de Molina de Segura es que debemos crear una cuenta gratuita en [GitHub](https://github.com/). Gracias a esta cuenta podremos tener control sobre las colaboraciones que se hacen al proyecto y los autores de las mismas manteniendo el espíritu open source del proyecto :smiley:
@@ -119,6 +121,7 @@ category: actividad # Añadir esta línea solo si es una actividad normal.
 category: cine # Añadir esta línea solo si es una actividad de tipo cine.
 permalink: el-reto-de-los-hombres-ante-la-igualdad
 title: El reto de los hombres ante la igualdad
+eventdate: 2019-05-09 20:00:00 +0100
 subtitle: Las nuevas masculinidades - Jueves, 18 Enero 2018, 20:00h
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13
 banner: /images/posts/bannerMasculinidades.png
@@ -161,6 +164,7 @@ layout: post // TIENE QUE SER OBLIGATORIAMENTE ASÍ
 category: cine // AÑADIR ESTA LÍNEA SOLO SI LA ACTIVIDAD ES DE TIPO CINE
 permalink: el-reto-de-los-hombres-ante-la-igualdad // ENLACE QUE HARÁ REFERENCIA A LA PÁGINA DE LA ACTIIDAD www.ateneomolinadesegura.com/el-reto-de-los-hombres-ante-la-igualdad
 title: El reto de los hombres ante la igualdad // TÍTULO DE LA PÁGINA PRINCIPAL Y EL DETALLE DE LA ACTIVIDAD
+eventdate: 2019-05-09 20:00:00 +0100 // FECHA EN LA QUE TENDRÁ LUGAR EL EVENTO
 subtitle: Las nuevas masculinidades - Jueves, 18 Enero 2018, 20:00h  // SUBTÍTULO DE LA PÁGINA PRINCIPAL Y EL DETALLE DE LA ACTIVIDAD
 placeUrl: https://maps.google.com/maps?q=Centro%20Cultural%20%22Las%20Balsas%22&t=&z=13 // URL DE GOOGLE MAPS A LA QUE ENLAZAMOS EL BOTÓN "Cómo llegar"
 banner: /images/posts/bannerMasculinidades.png // DIRECCIÓN DE LA IMÁGEN DE BANNER QUE HEMOS SUBIDO PREVIAMENTE. 
