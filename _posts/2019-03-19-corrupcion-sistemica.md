@@ -28,8 +28,7 @@ speakers:
 
 ### Artículos relacionados
 
-[La corrupción española es global y alarma al resto del mundo]
-(https://blogs.elconfidencial.com/mundo/las-tres-voces/2017-03-15/corrupcion-espana-global-preocupa-resto-mundo_1347950/)  
+[La corrupción española es global y alarma al resto del mundo](https://blogs.elconfidencial.com/mundo/las-tres-voces/2017-03-15/corrupcion-espana-global-preocupa-resto-mundo_1347950/)  
 
 
 [PP y Cs han bloqueado 58 veces la reforma de la ley de la que se ha beneficiado el expresidente de Murcia](https://www.eldiario.es/politica/PP-Ciudadanos-bloqueado-Congreso-instruir_0_848315959.html)
