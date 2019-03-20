@@ -10,10 +10,10 @@ activityImage:  /images/posts/corrupcion19.jpg
 speakers:  
     - name: D. Fernando Jiménez Sánchez 
       bio: Prof. Titular de Ciencia Política y de la Admon. de la UMU, Experto de GRECO (Grupo de Estados contra la Corrupción) del Consejo de Europa
-      photo: /images/posts/speakerNoAvatar.jpg
+      photo: /images/posts/fernandojimenez.png
     - name: D. Bernardino Benito López  
       bio: Catedrático de Economía Financiera y Contabilidad de la UMU  
-      photo: /images/posts/speakerNoAvatar.jpg
+      photo: /images/posts/bernardino.png
     
 
 ---
