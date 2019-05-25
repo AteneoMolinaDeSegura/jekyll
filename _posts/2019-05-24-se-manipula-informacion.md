@@ -1,7 +1,7 @@
 ---
 layout: post
 category: actividad
-permalink: se-manipula-información
+permalink: se-manipula-informacion
 title: ¿Se manipula la información?   
 subtitle: "Jueves 30 de mayo, 20:00h.- Salón de Actos de la Biblioteca SALVADOR GARCÍA AGUILAR"
 eventdate: 2019-05-30 20:00:00 +0100
