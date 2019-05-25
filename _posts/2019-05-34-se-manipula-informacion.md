@@ -11,10 +11,10 @@ banner: /images/posts/SE MANIPULA LA INFORMACION.png
 speakers:  
     - name: D. Miguel Ángel de Prada 
       bio: Sociologo investigador el el Colectivo Ioé, Ldo. en CC de la Información
-      photo: /images/posts/fernandojimenez.png
+      photo: /images/posts/migueangel.png
     - name: D. Ángel Montiel  
       bio: Periodista, Dtor de Opinión del diario La Opinión de Murcia  
-      photo: /images/posts/bernardino.png
+      photo: /images/posts/angelmontiel.jpg
     
 
 ---
@@ -28,10 +28,12 @@ speakers:
 
 ### Artículos relacionados
 
-[La corrupción española es global y alarma al resto del mundo](https://blogs.elconfidencial.com/mundo/las-tres-voces/2017-03-15/corrupcion-espana-global-preocupa-resto-mundo_1347950/)  
+[Los medios de comunicacion como instrumentos de manipulacion de masas]  
+(https://www.tercerainformacion.es/opinion/opinion/2019/02/12/los-medios-de-comunicacion-como-instrumentos-de-manipulacion-de-masas)
 
 
-[PP y Cs han bloqueado 58 veces la reforma de la ley de la que se ha beneficiado el expresidente de Murcia](https://www.eldiario.es/politica/PP-Ciudadanos-bloqueado-Congreso-instruir_0_848315959.html)
+[Tecnología y manipulación de la información]  
+(https://www.lavanguardia.com/opinion/20170123/413610128248/tecnologia-y-manipulacion-de-la-informacion.html)
 
 ***
 
