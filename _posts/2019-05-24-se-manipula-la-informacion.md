@@ -12,7 +12,7 @@ activityImage:  /images/posts/semanipulainformacion.png
 speakers:  
     - name: D. Miguel Ángel de Prada 
       bio: Sociologo investigador el el Colectivo Ioé, Ldo. en CC de la Información
-      photo: /images/posts/migueangel.png
+      photo: /images/posts/miguelangel.png
     - name: D. Ángel Montiel  
       bio: Periodista, Dtor de Opinión del diario La Opinión de Murcia  
       photo: /images/posts/angelmontiel.jpg
