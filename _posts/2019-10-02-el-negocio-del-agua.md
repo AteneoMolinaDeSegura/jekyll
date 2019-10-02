@@ -11,7 +11,7 @@ activityImage:  /images/posts/negocioagua.png
      
 speakers:  
     - name: 
-    - name: g
+    - name: 
     
 
 ---
