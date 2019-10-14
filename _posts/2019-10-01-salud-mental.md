@@ -24,7 +24,7 @@ speakers:
 ### Artículos relacionados
 
 [PROPUESTAS DE SALUD MENTAL PARA UN PACTO POR LA SALUD 2019 RECOGIDAS EN LA MAREA BLANCA]
-![cartel](PROPUESTAS_SM_MAREABLANCA_2019 (2))
+![cartel](propuestassmmarea)
 [PROGRAMA DE ACCIÓN PARA EL IMPULSO Y MEJORA DE LA SALUD MENTAL EN LA CARM 2019-2022]  
 (https://www.murciasalud.es/recursos/ficheros/428308-programa_sm_2019-2022.pdf)
 
