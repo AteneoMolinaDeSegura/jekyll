@@ -10,7 +10,7 @@ placeUrl:  https://www.google.com/maps/place/MUDEM/@38.0511487,-1.2141566,15z/da
 banner: /images/posts/saludmentalrm.png
 activityImage:  /images/posts/saludmentalrm.png  
      
-speakers: 
+speakers:  
     - name: Dña. Esperanza Parra 
     bio: Pta. de La Asociación en Primera Persona ECOS 
     photo: /images/posts/esperanzaparra.jpg
@@ -31,8 +31,6 @@ speakers:
 ***
 
 ### Artículos relacionados
-
-
 
 [PROGRAMA DE ACCIÓN PARA EL IMPULSO Y MEJORA DE LA SALUD MENTAL EN LA CARM 2019-2022]  
 (https://www.murciasalud.es/recursos/ficheros/428308-programa_sm_2019-2022.pdf)
