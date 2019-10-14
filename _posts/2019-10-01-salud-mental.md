@@ -20,6 +20,7 @@ speakers:
       bio: Jefe de psiquiatría de la Arrixaca, profesor de la UM  
       photo: /images/posts/pacotoledo.jpg
 
+
 ---
 
 ![cartel](/images/posts/saludmentalrm.png)  
