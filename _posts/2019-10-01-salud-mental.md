@@ -9,6 +9,8 @@ placeUrl:  https://www.google.com/maps/place/MUDEM/@38.0511487,-1.2141566,15z/da
 banner: /images/posts/saludmentalrm.png
 activityImage:  /images/posts/saludmentalrm.png  
      
+     
+     
 speakers:  
     - name: Dña. Esperanza Parra 
     bio: Pta. de La Asociación en Primera Persona ECOS 
@@ -21,17 +23,18 @@ speakers:
     photo: /images/posts/speakerNoAvatar.jpg
     
 
+
 ---
 
 ![cartel](/images/posts/saludmentalrm.png)  
-
+![cartel](/images/posts/smmb1.png)
 
 ***
 
 ### Artículos relacionados
 
 [PROPUESTAS DE SALUD MENTAL PARA UN PACTO POR LA SALUD 2019 RECOGIDAS EN LA MAREA BLANCA]
-![cartel](propuestassmmarea)
+
 [PROGRAMA DE ACCIÓN PARA EL IMPULSO Y MEJORA DE LA SALUD MENTAL EN LA CARM 2019-2022]  
 (https://www.murciasalud.es/recursos/ficheros/428308-programa_sm_2019-2022.pdf)
 
