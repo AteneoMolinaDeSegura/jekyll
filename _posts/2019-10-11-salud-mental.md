@@ -16,10 +16,7 @@ speakers:
     - name: Dña. Delia Tophan  
       bio: Familiar de una persona con problemas de salud mental  
       photo: /images/posts/deliatophan.jpg 
-     - name: D. Francisco Toledo Romero   
-      bio: Jefe de psiquiatría de la Arrixaca, profesor de la UM  
-      photo: /images/posts/pacotoledo.jpg 
-
+    
 
 ---
 
