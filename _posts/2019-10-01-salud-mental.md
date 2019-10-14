@@ -12,13 +12,13 @@ activityImage:  /images/posts/saludmentalrm.png
 speakers:  
     - name: Dña. Esperanza Parra
     bio:  Pta. de La Asociación en Primera Persona ECOS
-    photo:
+   
     - name: Dña. Delia Tophan
     bio:  Familiar de una persona con problemas de salud mental
-    photo:
+    
     - name: D. Francisco Toledo Romero
     bio:  Jefe de psiquiatría de la Arrixaca, prof. de la UM
-    photo:
+   
     
 
 ---
