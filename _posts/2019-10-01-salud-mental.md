@@ -9,9 +9,7 @@ placeUrl:  https://www.google.com/maps/place/MUDEM/@38.0511487,-1.2141566,15z/da
 banner: /images/posts/saludmentalrm.png
 activityImage:  /images/posts/saludmentalrm.png  
      
-     
-     
-speakers:  
+speakers: 
     - name: Dña. Esperanza Parra 
     bio: Pta. de La Asociación en Primera Persona ECOS 
     photo: /images/posts/speakerNoAvatar.jpg
