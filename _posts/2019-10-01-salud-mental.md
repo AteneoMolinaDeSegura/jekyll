@@ -1,4 +1,5 @@
 ---
+
 layout: post
 category: actividad
 permalink: salud-mental
@@ -12,13 +13,13 @@ activityImage:  /images/posts/saludmentalrm.png
 speakers: 
     - name: Dña. Esperanza Parra 
     bio: Pta. de La Asociación en Primera Persona ECOS 
-    photo: /images/posts/speakerNoAvatar.jpg
+    photo: /images/posts/esperanzaparra.jpg
     - name: Dña. Delia Tophan 
     bio: Familiar de una persona con problemas de salud mental
-    photo: /images/posts/speakerNoAvatar.jpg
+    photo: /images/posts/deliatophan.jpg
     - name: D. Francisco Toledo Romero 
     bio: Jefe de psiquiatría de la Arrixaca, profesor de la UM 
-    photo: /images/posts/speakerNoAvatar.jpg
+    photo: /images/posts/pacotoledo.jpg
     
 
 
