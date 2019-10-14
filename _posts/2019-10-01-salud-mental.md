@@ -30,8 +30,6 @@ speakers:
 
 ### Artículos relacionados
 
-
-
 [PROGRAMA DE ACCIÓN PARA EL IMPULSO Y MEJORA DE LA SALUD MENTAL EN LA CARM 2019-2022]  
 (https://www.murciasalud.es/recursos/ficheros/428308-programa_sm_2019-2022.pdf)
 
