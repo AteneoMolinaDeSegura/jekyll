@@ -16,7 +16,9 @@ speakers:
     - name: Dña. Delia Tophan  
       bio: Familiar de una persona con problemas de salud mental  
       photo: /images/posts/deliatophan.jpg 
-    
+    - name: Paco Toledo
+      bio: Jefe de sección de Psiquiatría Arrixaca
+      photo: /images/posts/pacotoledo.jpg
 
 ---
 
