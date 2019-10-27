@@ -1,0 +1,59 @@
+---
+layout: info
+title: Ateneo Joven | Ateneo Molina de Segura
+pagination: 
+  enabled: true
+  categories: joven
+  sort_reverse: true
+---
+<div class="page-buttons-container">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}">
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Anterior</button>
+  </a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}">
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Siguiente</button>
+  </a>
+  {% endif %}
+</div>
+<div class="activity-content mdl-grid">
+  {% for post in paginator.posts %}
+  <div class="activity-card">
+    <a class="no-underline-link" href="{{ post.url }}">
+      <div class="activity-info">
+        <div class="activity-card-image mdl-card mdl-shadow--2dp" style="background: url('{{post.activityImage}}') center / cover;">
+          <div class="mdl-card__title mdl-card--expand"></div>
+          <div class="mdl-card__actions">
+
+            <span class="activity-card-image__title">
+              {{post.title}}
+            </span>
+            <br>
+            <span class="activity-card-image__subtitle">
+              {{post.subtitle}}
+            </span>
+
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  {% endfor %}
+</div>
+<div class="page-buttons-container">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}">
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Anterior</button>
+  </a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}">
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Siguiente</button>
+  </a>
+  {% endif %}
+</div>
