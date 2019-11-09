@@ -14,7 +14,7 @@ relatedLinks:
       url: https://www.filmaffinity.com/es/film562367.html
 ---
 
-### Jueves, 13 de noviembre-2019 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
+### MIERCOLES, 13 de noviembre-2019 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
 
 ![cartel](/images/posts/unapistolaencadamano.jpg)
 
