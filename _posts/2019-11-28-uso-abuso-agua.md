@@ -12,13 +12,13 @@ activityImage:  /images/posts/debate_agua.png
 speakers:  
     - name: D. Lucas Jiménez 
       bio: Pte. Sindicato de Regantes del Trasvase 
-      photo: /images/posts/esperanzaparra.jpg 
+      photo: /images/posts/lucas_jimenez.jpg 
     - name: Dña. Isabel Rubio Pérez  
       bio: Portavoz Pacto por el Mar Menor  
-      photo: /images/posts/deliatophan.jpg 
+      photo: /images/posts/isabel_rubio.jpg 
     - name: Dña. Mª Luisa Suarez Alonso
       bio: U. de Murcia.- Dto. de Ecología e Hidrología
-      photo: /images/posts/pacotoledo.jpg
+      photo: /images/posts/Mluisa_Suarez_Alonso.jpg
 
 ---
 
