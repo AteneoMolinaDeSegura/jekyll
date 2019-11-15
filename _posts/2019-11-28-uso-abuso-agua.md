@@ -16,10 +16,7 @@ speakers:
     - name: Dña. Isabel Rubio Pérez  
       bio: Portavoz Pacto por el Mar Menor  
       photo: /images/posts/isabel_rubio.jpg 
-    - name: Dña. Mª Luisa Suarez Alonso
-      bio: U. de Murcia.- Dto. de Ecología e Hidrología
-      photo: /images/posts/Mluisa_Suarez_Alonso.jpg
-
+   
 ---
 
 ![cartel](/images/posts/debate_agua.png)  
