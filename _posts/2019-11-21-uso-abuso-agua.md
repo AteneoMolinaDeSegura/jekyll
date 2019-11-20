@@ -11,7 +11,7 @@ banner: /images/posts/debate_agua1.png
 activityImage:  /images/posts/debate_agua1.png
 
 speakers:
-     - name: Dña. Isabel Rubio Pérez
+    - name: Dña. Isabel Rubio Pérez
       bio: Portavoz Pacto por el Mar Menor
       photo: /images/posts/isabel_rubio.jpg
     - name: Dña. Mª Luisa Suarez Alonso
