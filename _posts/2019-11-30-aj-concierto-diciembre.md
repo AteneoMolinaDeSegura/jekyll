@@ -12,10 +12,10 @@ activityImage: /images/posts/concierto5diciembre.png
 speakers:  
     - name: Mala Cotton
       bio: Banda ganadora CreaMurcia 19
-      photo: /images/posts/malacotton.jpg 
+      photo: /images/posts/malacotton.jpg
       - name: New Ways
       bio: Ateneo Molina de Segura
-      photo: /images/posts/newways.jpg 
+      photo: /images/posts/newways.jpg
 
 
 ---
