@@ -25,8 +25,6 @@ speakers:
 
 ***
 
-### Artículos relacionados
 
-XXX
 ***
 
