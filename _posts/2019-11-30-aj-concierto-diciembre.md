@@ -13,11 +13,7 @@ speakers:
     - name: Mala Cotton
       bio: Banda ganadora CreaMurcia 19
       photo: /images/posts/malacotton.jpg
-      - name: New Ways
-      bio: Ateneo Molina de Segura
-      photo: /images/posts/newways.jpg
-
-
+   
 ---
 Mala Cotton 
 Banda ganadora del CreaMurcia 2019 en la categoría Otras Tendencias
