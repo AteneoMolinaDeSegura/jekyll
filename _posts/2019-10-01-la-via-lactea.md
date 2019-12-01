@@ -10,8 +10,8 @@ banner: /images/posts/lavialactea.jpg
 activityImage: /images/posts/lavialactea.jpg
 
 relatedLinks: 
-    - name: UNA PISTOLA EN CADA MANO
-      url: https://www.filmaffinity.com/es/film921012.html
+    - name: LA VÍA LÁCTEA
+      url:https://www.filmaffinity.com/es/film921012.html
 ---
 
 ### Jueves, 12 de diciembre-2019 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
