@@ -10,8 +10,8 @@ banner: /images/posts/lavialactea.png
 activityImage: /images/posts/lavialactea.png
 
 relatedLinks:
-    - name: LA VÍA LÁCTEA
-      url:https://www.filmaffinity.com/es/film921012.html
+- name: LA VÍA LÁCTEA
+url:https://www.filmaffinity.com/es/film921012.html
 ---
 
 ### Jueves, 12 de diciembre-2019 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
