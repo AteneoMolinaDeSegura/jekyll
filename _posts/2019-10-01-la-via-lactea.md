@@ -11,7 +11,7 @@ activityImage: /images/posts/lavialactea.png
 
 relatedLinks:
     - name: LA VÍA LÁCTEA
-      url:https://www.filmaffinity.com/es/film921012.html
+      url:  https://www.filmaffinity.com/es/film921012.html
 
 ---
 
