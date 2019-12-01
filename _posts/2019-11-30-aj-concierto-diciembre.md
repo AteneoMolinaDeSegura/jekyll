@@ -13,12 +13,10 @@ speakers:
     - name: Mala Cotton
       bio: Banda ganadora CreaMurcia 19
       photo: /images/posts/malacotton.png
-    - name: Mala Cotton2
-      bio: Banda ganadora CreaMurcia 19
-      photo: /images/posts/malacotton.png
-    - name: Mala Cotton3
-      bio: Banda ganadora CreaMurcia 19
-      photo: /images/posts/malacotton.png
+    - name: New Ways
+      bio: CreaMurcia 19
+      photo: /images/posts/newways.png
+    
 ---
 ### Mala cotton y New Ways en concierto.
 
