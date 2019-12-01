@@ -15,6 +15,11 @@ speakers:
       photo: /images/posts/malacotton.jpg
    
 ---
+MALA COTTON Y NEW WAYS EN CONCIERTO  
+5 DE DICIEMBRE, 20:00H  
+AUDITORIO VIRGINIA MARTÍNEZ, MUDEM,  Ibn Arabí, s/n 
+MOLINA DE SEGURA
+
 Mala Cotton 
 Banda ganadora del CreaMurcia 2019 en la categoría Otras Tendencias
 Canciones definidas por la diferencia de gustos musicales que presenta cada uno de los componentes, pero con Jungle, Parcels, Tyler, The Creator o Bon Iver como influencias comunes y más representativas.  
