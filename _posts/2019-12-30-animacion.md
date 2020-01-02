@@ -17,5 +17,5 @@ relatedLinks:
 
 ### Jueves, 13 de FEBRERO -2020 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
 
-
+![cartel](/images/posts/cineateneologo.png)  
 
