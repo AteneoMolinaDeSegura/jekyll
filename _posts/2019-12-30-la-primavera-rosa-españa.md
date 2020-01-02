@@ -10,8 +10,7 @@ banner: /images/posts/cineateneologo.png
 activityImage: /images/posts/laprimaverarosa.jpg
 
 relatedLinks:
-    - name: LA PRIMAVERA ROSA  
-    ESPAÑA
+    - name: LA PRIMAVERA ROSA ESPAÑA
 
 
 ---
