@@ -1,6 +1,6 @@
 ---
 layout: post
-category: debate
+category: actividad
 permalink: la-primavera-rosa-españa
 title: "CINE-DEBATE ATENEO: LA PRIMAVERA ROSA ESPAÑA"
 eventdate: 2020-01-23 20:00:00 +0100
