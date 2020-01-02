@@ -18,4 +18,5 @@ relatedLinks:
 
 ### Jueves, 23 de ENERO -2020 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
 
+![cartel](/images/posts/laprimaverarosa.jpg)  
 
