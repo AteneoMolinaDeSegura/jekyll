@@ -18,3 +18,4 @@ relatedLinks:
 ### Jueves, 12 de MARZO -2020 , 20:00 h. Auditorio Virginia Martínez del MUDEM.
 
 
+![cartel](/images/posts/lashadasexisten.jpg)  
