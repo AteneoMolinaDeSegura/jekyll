@@ -14,8 +14,8 @@ relatedLinks:
 ---
 
 ### Jueves,13 de febrero de 2020, 20:00 h. Auditorio Virginia Martínez del MUDEM.
-Ciclo de animación.  Ateneo Joven
-![cartel](/images/posts/persepolis.jpg)
+Ciclo de animación.  Ateneo Joven  
+![cartel](/images/posts/persepolis.jpg)  
 
 {% youtube "https://www.youtube.com/watch?v=FGjcfGgVm64" %}
 
