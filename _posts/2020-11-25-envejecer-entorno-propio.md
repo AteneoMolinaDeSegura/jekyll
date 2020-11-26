@@ -7,9 +7,9 @@ subtitle: "Tema:  Vejez, soledad y cuidados"
 eventdate: 2020-12-10 18:30:00 +0100
 placeUrl: https://www.google.com/maps/place/Biblioteca+Municipal+Salvador+Garc%C3%ADa+Aguilar/@38.0580143,-1.2068741,17z/data=!3m1!4b1!4m5!3m4!1s0xd638752df5e7703:0x7bb1faa78306d56b!8m2!3d38.0580143!4d-1.2046854
 banner: /images/posts/debateateneologo.png
-activityImage:  /images/posts/CARTELenvejecerentornopróximo.png
+activityImage:  /images/posts/cartelenvejecer entornopróximo.png
 ---
-
+![cartel](/images/posts/cartelenvejecer entornopróximo.png) 
 ![cartel](/images/posts/debateateneologo.png)  
 
 ***
