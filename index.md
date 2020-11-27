@@ -27,6 +27,8 @@ title: Ateneo Molina de Segura
 </div>
 {% endfor %}
 
+<div style="margin-right: 30px; margin-left: 30px;">
+
 ## ¿Qué es el Ateneo?
 
 El Ateneo Villa de Molina de Segura es una asociación que comenzó su andadura en Noviembre de 2014 con la voluntad expresa de ser un lugar donde pudieran manifestarse y defenderse todas las ideas y concepciones vitales que asuman los principios y objetivos de la asociación. Estos son nuestra mejor carta de presentación.
@@ -47,3 +49,5 @@ Son Objetivos del Ateneo:
 Correo electrónico: [ateneomolinadesegura@gmail.com](mailto://ateneomolinadesegura@gmail.com)
 
 Asociación inscrita en el Reg. de Asociaciones con el nº 12.779/1ª
+
+</div>
