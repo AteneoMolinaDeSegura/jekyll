@@ -60,6 +60,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-paginate-v2 (2.0.0)
       jekyll (~> 3.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.0.0)
@@ -82,7 +84,7 @@ GEM
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
-    rack (1.6.10)
+    rack (1.6.13)
     rack-protection (1.5.5)
       rack
     rack-test (1.1.0)
@@ -128,6 +130,7 @@ DEPENDENCIES
   jekyll-autoprefixer
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2
+  jekyll-redirect-from
   jekyll-youtube
   tzinfo-data
 
