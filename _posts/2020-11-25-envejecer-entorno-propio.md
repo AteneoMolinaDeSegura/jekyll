@@ -9,7 +9,7 @@ eventdate: 2020-12-10 18:30:00 +0100
 banner: /images/posts/debateateneologo.png
 activityImage:  /images/posts/cartelenvejecerentornopropio.png
 ---
-![cartel](/images/posts/cartelenvejecerentornopropio.png) 
+![cartel](/images/posts/cartelenvejecerentornopropio2.png) 
 
 ***
 
