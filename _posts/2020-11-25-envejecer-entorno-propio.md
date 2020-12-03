@@ -19,7 +19,7 @@ Nuestro objetivo es la difusión de información relevante sobre el tema a trav�
 
 El próximo 10 de diciembre a las 18:30 h tendrá lugar la Videoconferencia coloquio "Envejecer en el entorno propio. Una alternativa: Ayuntamiento de Vitoria-Gasteiz".
 
-Esta actividad se podrá seguir a través de conferencia web (webinar) (https://us02web.zoom.us/j/81354788364)  
+Esta actividad se podrá seguir a través de conferencia web [webinar](https://us02web.zoom.us/j/81354788364)  
 y [el canal de youtube Ateneo Villa de Molina de Segura](https://www.youtube.com/channel/UCGST1ZCNxGrxxzr5ixH6wJg). 
 
 ***
